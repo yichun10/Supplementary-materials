@@ -1,0 +1,1622 @@
+[
+    {
+        "question": "Which types of cancer are associated with MET?",
+        "answer": "Output: MET is associated with melanoma, lung cancer, and breast cancer."
+    },
+    {
+        "question": "What drugs can treat cancers with TERT mutations?",
+        "answer": "Output: TERT can be used for luminespib."
+    },
+    {
+        "question": "What types of cancer can be treated with diethylstilbestrol?",
+        "answer": "Output: Diethylstilbestrol can treat breast cancer and prostate cancer."
+    },
+    {
+        "question": "Which types of cancer can be treated with pomalidomide?",
+        "answer": "Output: Pomalidomide can treat breast cancer, ovarian cancer, and gastric cancer."
+    },
+    {
+        "question": "Which genes can be activated by codeine?",
+        "answer": "Output: OPRD1, OPRK1, OPRM1 can be activated by codeine."
+    },
+    {
+        "question": "Which genes can be activated by E7766?",
+        "answer": "Output: E7766 can activate ALK."
+    },
+    {
+        "question": "What types of cancer can lonsurf be used to treat?",
+        "answer": "Output: Lonsurf can be used to treat lung cancer."
+    },
+    {
+        "question": "What types of cancer can capecitabine be used to treat?",
+        "answer": "Output: Capecitabine can be used to treat colon cancer, rectal cancer, breast cancer."
+    },
+    {
+        "question": "What types of cancer can tukysa be used to treat?",
+        "answer": "Output: Tukysa can be used to treat lung cancer."
+    },
+    {
+        "question": "What types of cancer can irinotecan be used to treat?",
+        "answer": "Output: Irinotecan can be used to treat colorectal cancer."
+    },
+    {
+        "question": "What are the NMPA-approved drugs for cancers with TNKS mutations?",
+        "answer": "Output: The NMPA-approved drugs for TNKS are lenvatinib and sobinonib."
+    },
+    {
+        "question": "What are the NMPA-approved drugs for cancers with DDR2 mutations?",
+        "answer": "Output: The NMPA-approved drugs for DDR2 are crizotinib and lenvatinib."
+    },
+    {
+        "question": "What are the NMPA-approved drugs for cancers with MGMT mutations?",
+        "answer": "Output: MGMT is resistant to lenvatinib."
+    },
+    {
+        "question": "What are the NMPA-approved drugs for cancers with HDAC4 mutations?",
+        "answer": "Output: NMPA-approved drugs for HDAC4 are:"
+    },
+    {
+        "question": "What FDA-approved drugs are available to treat cancers with BCL2L1 mutations?",
+        "answer": "Output: BCL2L1 is targeted by imatinib."
+    },
+    {
+        "question": "What FDA-approved drugs are available to treat cancers with GPNMB mutations?",
+        "answer": "Output: GPNMB is associated with luminespib."
+    },
+    {
+        "question": "What FDA-approved drugs are available to treat cancers with CD3E mutations?",
+        "answer": "Output: CD3E is a part of the drug CD3E-C1156Y."
+    },
+    {
+        "question": "What genetic mutations are present in astrocytoma?",
+        "answer": "Output: The snvfull in astrocytoma are EGFR-p.L861R, EGFR-p.G719A, ERBB2-p.E401G, ALK-p.L1196M, MET-p.L1195V, CSF1R-p.Y546_K551del, MET-p.D1228N, CSF1R-p.W450_E456del, JAK2-p.V617F, ALK-p.L1198F."
+    },
+    {
+        "question": "What genetic mutations are present in endocervical adenocarcinoma?",
+        "answer": "Output: The snvfull in endocervical adenocarcinoma are EGFR-p.L861R, EGFR-p.G719A, ERBB2-p.E401G, ALK-p.L1196M, MET-p.L1195V, CSF1R-p.Y546_K551del, MET-p.D1228N, CSF1R-p.W450_E456del, JAK2-p.V617F, ALK-p.L1198F."
+    },
+    {
+        "question": "What genetic mutations are present in adenoid cystic carcinoma?",
+        "answer": "Output: Adenoid cystic carcinoma have snvfull in ERBB2, ALK, MET, CSF1R, MET, CSF1R, JAK2, ALK, FLT3, ALK."
+    },
+    {
+        "question": "What type of cancer can be driven by PTEN-p.R173C?",
+        "answer": "Output: PTEN-p.R173C can drive lung cancer."
+    },
+    {
+        "question": "What type of cancer can BRAF-p.T599K drive?",
+        "answer": "Output: BRAF-p.T599K can drive melanoma."
+    },
+    {
+        "question": "What type of cancer can VHL-p.T133N drive?",
+        "answer": "Output: VHL-p.T133N can drive lung cancer."
+    },
+    {
+        "question": "What type of cancer can be driven by ROS1-p.L2026M?",
+        "answer": "Output: ROS1-p.L2026M can drive lung cancer."
+    },
+    {
+        "question": "What type of cancer can be driven by EZH2-p.A682G?",
+        "answer": "Output: EZH2-p.A682G can drive lung cancer."
+    },
+    {
+        "question": "What FDA-approved drugs are available to treat cancers with GSK3B mutations?",
+        "answer": "Output: GSK3B is associated with lenvatinib."
+    },
+    {
+        "question": "What genetic mutations are present in nipple neoplasms?",
+        "answer": "Output: The snvfull in nipple neoplasms are ERBB2-p.E401G, ALK-p.L1196M, MET-p.L1195V, CSF1R-p.Y546_K551del, MET-p.D1228N, CSF1R-p.W450_E456del, ALK-p.L1198F, JAK2-p.V617F, FLT3-p.D835Y, ALK-p.G1202R."
+    },
+    {
+        "question": "What types of cancer can meccnu be used to treat?",
+        "answer": "Output: Meccnu can be used to treat ALK-positive giant cell lung cancer."
+    },
+    {
+        "question": "What cancers are associated with the ZNFN1A3?",
+        "answer": "Output: ZNFN1A3 is associated with lung cancer."
+    },
+    {
+        "question": "Which cancers are related to the PB1?",
+        "answer": "Output: The PB1 is related to lung cancer, breast cancer, and ovarian cancer."
+    },
+    {
+        "question": "What is the alternative gene name for PPNAD1?",
+        "answer": "Output: The alternative gene name for PPNAD1 is PPNA1."
+    },
+    {
+        "question": "What is the alternative gene name for HXB?",
+        "answer": "Output: The alternative gene name for HXB is HBX."
+    },
+    {
+        "question": "Which cancers are related to the VRNF?",
+        "answer": "Output: The VRNF is related to the lung cancer, breast cancer, and ovarian cancer."
+    },
+    {
+        "question": "Which cancers are related to CNC?",
+        "answer": "Output: CNC is related to CMTR1-ALK-巨细胞肺癌."
+    },
+    {
+        "question": "Which drugs are FLT3 in myeloid resistant to?",
+        "answer": "Output: FLT3 in myeloid are resistant to luminaspib."
+    },
+    {
+        "question": "Which drugs are EGFR in pleomorphic carcinoma of the lung resistant to?",
+        "answer": "Output: EGFR in pleomorphic carcinoma of the lung are resistant to luminaspib."
+    },
+    {
+        "question": "Which drugs are colon adenocarcinoma with NTRK1 resistant to?",
+        "answer": "Output: NTRK1 in colon adenocarcinoma are resistant to luminaspib."
+    },
+    {
+        "question": "Which drugs are KIT in soft tissue resistant to?",
+        "answer": "Output: KIT in soft tissue are resistant to clotozantinib."
+    },
+    {
+        "question": "What drugs can treat cancers with ABL1 mutations?",
+        "answer": "Output: ABL1 are resistant to luminespib."
+    },
+    {
+        "question": "What genetic mutations need to be tested for erlotinib?",
+        "answer": "Output: EGFR-p.D807V, EGFR-p.A24S, EGFR-p.C240F, EGFR-p.Q1021K, EGFR-p.A750E, EGFR-p.R681K, EGFR-p.V60A, EGFR-p.G201C, EGFR-p.T382S, EGFR-p.V1011G"
+    },
+    {
+        "question": "How to treat gastric cancer with ERBB2?",
+        "answer": "Output: Gastric cancer with ERBB2 can be treated with crizotinib."
+    },
+    {
+        "question": "What are the drug treatment options for fallopian tube carcinoma?",
+        "answer": "Output: The drug treatment options for fallopian tube carcinoma are olaparib, niraparib, rucaparib, mirvetuximab soravtansine, and bevacizumab."
+    },
+    {
+        "question": "Which gene mutations may be resistant to sorafenib?",
+        "answer": "Output: FLT3 is possibly related to resistance to sorafenib."
+    },
+    {
+        "question": "How to treat bone with NTRK1?",
+        "answer": "Output: NTRK1 in bone can be treated with nintedanib."
+    },
+    {
+        "question": "Which genetic mutations need to be detected by FIIN-1?",
+        "answer": "Output: FIIN-1 needs to detect ALK-p.L1196M, ALK-p.C1156Y, ALK-p.F1174V, ALK-p.C1156Y, ALK-p.F1245C, CMTR1-ALK."
+    },
+    {
+        "question": "What are the drug treatment options for bladder urothelial carcinoma?",
+        "answer": "Output: Bladder urothelial carcinoma are treated with nadofaragene firadenovec-vncg and vinflunine."
+    },
+    {
+        "question": "Which genetic mutations are possibly related to sensitivity to afatinib?",
+        "answer": "Output: EGFR-p.L858R, EGFR-p.L861R, EGFR-p.R776G, EGFR-p.E746_L747delinsIP, EGFR-p.S1190F."
+    },
+    {
+        "question": "Which genetic mutations need to be detected for MK-2206?",
+        "answer": "Output: MK-2206 need to be detected for ALK-p.C1156Y."
+    },
+    {
+        "question": "What are the genetic mutations in pancreas?",
+        "answer": "Output: The snvfull in pancreas are ERBB2-p.E401G, ALK-p.L1196M, MET-p.L1195V, CSF1R-p.Y546_K551del, MET-p.D1228N, CSF1R-p.W450_E456del, ALK-p.L1198F, JAK2-p.V617F, FLT3-p.D835Y, ALK-p.G1202R."
+    },
+    {
+        "question": "What drugs can treat cancers with MTOR mutations?",
+        "answer": "Output: MTOR can be used for everolimus."
+    },
+    {
+        "question": "What are the genetic mutations in esophageal carcinoma?",
+        "answer": "Output: The snvfull in esophageal carcinoma are E401G, L1196M, L1198F, D835Y, G1202R, Y546_K551del, W450_E456del, D1228N."
+    },
+    {
+        "question": "What types of cancer can sotorasib treat?",
+        "answer": "Output: Sotorasib can treat ALK-positive non-small cell lung cancer."
+    },
+    {
+        "question": "What types of cancer can aldesleukin treat?",
+        "answer": "Output: Aldesleukin can treat renal cell carcinoma and melanoma."
+    },
+    {
+        "question": "What types of cancer can be treated with abarelix?",
+        "answer": "Output: Abarelix can treat pancreatic cancer."
+    },
+    {
+        "question": "What types of cancer can be treated with bexarotene?",
+        "answer": "Output: Bexarotene can treat T cell leukemia/lymphoma."
+    },
+    {
+        "question": "What types of cancer can be treated with bortezomib?",
+        "answer": "Output: Bortezomib can treat multiple myeloma and malignant lymphoma."
+    },
+    {
+        "question": "Which drugs are ALK in giant cell carcinoma of the lung resistant to?",
+        "answer": "Output: ALK in giant cell carcinoma of the lung are resistant to clotozantinib and luminaspib."
+    },
+    {
+        "question": "What drugs can treat cancers with ALK mutations?",
+        "answer": "Output: ALK can be used for clotozantinib and luminaspib."
+    },
+    {
+        "question": "What are the genetic mutations in liver?",
+        "answer": "Output: The snvfull in liver are EGFR-p.L861R, EGFR-p.G719A, ERBB2-p.E401G, ALK-p.L1196M, MET-p.L1195V, CSF1R-p.Y546_K551del, MET-p.D1228N, CSF1R-p.W450_E456del, JAK2-p.V617F, ALK-p.L1198F."
+    },
+    {
+        "question": "Which genetic mutations need to be detected for thyroid?",
+        "answer": "Output: The snvfull that need to be detected for thyroid are EGFR-p.L861R, EGFR-p.G719A, ERBB2-p.E401G, ALK-p.L1196M, MET-p.L1195V, CSF1R-p.Y546_K551del, MET-p.D1228N, CSF1R-p.W450_E456del, JAK2-p.V617F, ALK-p.L1198F."
+    },
+    {
+        "question": "What are the genetic mutations in cervix?",
+        "answer": "Output: The snvfull in cervix are ERBB2-p.E401G, ALK-p.L1196M, MET-p.L1195V, CSF1R-p.Y546_K551del, MET-p.D1228N, CSF1R-p.W450_E456del, ALK-p.L1198F, JAK2-p.V617F, FLT3-p.D835Y, ALK-p.G1202R."
+    },
+    {
+        "question": "What disease does a mutation in the MYH8 gene cause?",
+        "answer": "Output: A mutation in the MYH8 gene causes myelodysplastic syndrome."
+    },
+    {
+        "question": "What disease does a PDGFRA gene mutation cause?",
+        "answer": "Output: A PDGFRA gene mutation causes pancreatic cancer."
+    },
+    {
+        "question": "What disease does a mutation in the CYLD gene cause?",
+        "answer": "Output: A mutation in the CYLD gene causes CYLD-related disorders."
+    },
+    {
+        "question": "What diseases are caused by cancers with AIRE mutations?",
+        "answer": "Output: AIRE is caused by self-immune thrombocytopenia-Chlamydia pneumoniae-extracellular matrix disorder disease."
+    },
+    {
+        "question": "What disease does a mutation in the XIAP gene cause?",
+        "answer": "Output: A mutation in the XIAP gene causes X-linked intellectual disability."
+    },
+    {
+        "question": "What disease does a PALB2 gene mutation cause?",
+        "answer": "Output: A PALB2 gene mutation causes breast cancer."
+    },
+    {
+        "question": "What are the fusion genes in skin?",
+        "answer": "Output: The fusion in skin are ALK-p.L1196M, ALK-p.L1198F, ALK-p.G1202R, ALK-p.C1156Y, FGFR2-SKI, FGFR3-TACC3, FGFR2-TACC3, FGFR2-CLIP1, FGFR2-SHTN1."
+    },
+    {
+        "question": "What are the fusion in pelvic tumor?",
+        "answer": "Output: The fusion in pelvic tumor is ALK-p.L1196M, ALK-p.L1198F, ALK-p.G1202R, ALK-p.C1156Y, FGFR2-SKI, FGFR3-TACC3, FGFR2-TACC3, FGFR2-CLIP1, FGFR2-SHTN1."
+    },
+    {
+        "question": "What are the fusion genes in lymphoepithelioma-like carcinoma of the lung?",
+        "answer": "Output: The fusion genes in lymphoepithelioma-like carcinoma of the lung are ALK-p.L1196M, ALK-p.L1198F, ALK-p.G1202R, ROS1-p.L2086F, EGFR-p.L858R, RUFY2-RET, KIF5B-RET, NCOA4-RET, CCDC6-RET."
+    },
+    {
+        "question": "What are the fusion genes in pancreatic neuroendocrine tumor?",
+        "answer": "Output: The fusion genes in pancreatic neuroendocrine tumor are ALK, FGFR2-SKI, FGFR3-TACC3, FGFR2-TACC3, FGFR2-CLIP1, FGFR2-SHTN1, and FGFR1."
+    },
+    {
+        "question": "What are the fusion genes in melanoma?",
+        "answer": "Output: The fusion genes in melanoma are ALK-p.L1196M, ALK-p.L1198F, ALK-p.G1202R, ALK-p.C1156Y, FGFR2-SKI, FGFR3-TACC3, FGFR2-TACC3, FGFR2-CLIP1, FGFR2-SHTN1."
+    },
+    {
+        "question": "What are the fusion genes in inflammatory myofibroblastic tumor?",
+        "answer": "Output: The fusion in inflammatory myofibroblastic tumor are ALK-p.L1196M, ALK-p.L1198F, ALK-p.G1202R, ALK-p.C1156Y, FGFR2-SKI, FGFR3-TACC3, FGFR2-TACC3, FGFR2-CLIP1, FGFR2-SHTN1."
+    },
+    {
+        "question": "What are the fusion genes in soft tissue?",
+        "answer": "Output: The fusion genes in soft tissue are ALK, FGFR2-SKI, FGFR3-TACC3, FGFR2-TACC3, FGFR2-CLIP1, FGFR2-SHTN1."
+    },
+    {
+        "question": "What type of cancer can be induced by Trismus-Pseudocamptodactyly Syndrome with Cardiac Myxoma and Freckling?",
+        "answer": "Output: Trismus-Pseudocamptodactyly Syndrome with Cardiac Myxoma and Freckling can induce heart tumor."
+    },
+    {
+        "question": "Which drugs are KRAS in colon cancer sensitive to?",
+        "answer": "Output: KRAS in colon cancer are sensitive to cetuximab."
+    },
+    {
+        "question": "What genetic mutations need to be tested before lung?",
+        "answer": "Output: EGFR-p.L861R, EGFR-p.G719A, ERBB2-p.E401G, ALK-p.L1196M, MET-p.L1195V, CSF1R-p.Y546_K551del, MET-p.D1228N, CSF1R-p.W450_E456del, JAK2-p.V617F, ALK-p.L1198F."
+    },
+    {
+        "question": "What is the gender of the clinical trial recruiting prostate patients?",
+        "answer": "Output: The gender of the clinical trial recruiting prostate patients is male."
+    },
+    {
+        "question": "Which drugs are ALK in basaloid large cell carcinoma of the lung sensitivity to?",
+        "answer": "Output: ALK in basaloid large cell carcinoma of the lung are sensitive to clotozantinib."
+    },
+    {
+        "question": "Are there any suitable and currently recruiting clinical trials for patients with esophageal adenocarcinoma in China?",
+        "answer": "Output: Yes, there are clinical trials for patients with esophageal adenocarcinoma in China."
+    },
+    {
+        "question": "What drugs are available for cancers with ERBB2 mutations?",
+        "answer": "Output: The available drugs for ERBB2 mutations are trastuzumab, pertuzumab, and cobimetinib."
+    },
+    {
+        "question": "Are there suitable and currently recruiting clinical trials for non-small cell lung cancer patients?",
+        "answer": "Output: There are clinical trials for non-small cell lung cancer patients."
+    },
+    {
+        "question": "Are there suitable and currently recruiting clinical trials for liver patients?",
+        "answer": "Output: Yes, there are clinical trials for liver patients, such as the KITE-Liver trial."
+    },
+    {
+        "question": "Are there suitable and currently recruiting clinical trials for lung patients in China?",
+        "answer": "Output: There are clinical trials for lung patients in China."
+    },
+    {
+        "question": "What are the genetic mutations in ovarian carcinoma?",
+        "answer": "Output: The snvfull in ovarian carcinoma are ALK-p.L1196M, ALK-p.L1198F, ALK-p.G1202R, ERBB2-p.E401G, MET-p.L1195V, MET-p.D1228N, CSF1R-p.Y546_K551del, CSF1R-p.W450_E456del, JAK2-p.V617F, FLT3-p.D835Y."
+    },
+    {
+        "question": "What are the genetic mutations in kidney?",
+        "answer": "Output: The snvfull in kidney are EGFR-p.L861R, EGFR-p.G719A, ERBB2-p.E401G, ALK-p.L1196M, MET-p.L1195V, CSF1R-p.Y546_K551del, MET-p.D1228N, CSF1R-p.W450_E456del, JAK2-p.V617F, ALK-p.L1198F."
+    },
+    {
+        "question": "What are the mutations in endometrial carcinoma?",
+        "answer": "Output: The mutations in endometrial carcinoma are EGFR-p.L861R, EGFR-p.G719A, ERBB2-p.E401G, ALK-p.L1196M, MET-p.L1195V, CSF1R-p.Y546_K551del, MET-p.D1228N, CSF1R-p.W450_E456del, JAK2-p.V617F, ALK-p.L1198F."
+    },
+    {
+        "question": "What are the genetic mutations in small cell lung cancer?",
+        "answer": "Output: The snvfull in small cell lung cancer are E401G, L1196M, L1198F, D835Y, G1202R, Y546_K551del, W450_E456del, D1228N."
+    },
+    {
+        "question": "What are the genetic mutations in liver?",
+        "answer": "Output: The snvfull in liver are EGFR-p.L861R, EGFR-p.G719A, ERBB2-p.E401G, ALK-p.L1196M, MET-p.L1195V, CSF1R-p.Y546_K551del, MET-p.D1228N, CSF1R-p.W450_E456del, JAK2-p.V617F, ALK-p.L1198F."
+    },
+    {
+        "question": "What are the genetic mutations in breast?",
+        "answer": "Output: The snvfull in breast are ALK-p.L1196M, ALK-p.C1156Y, ALK-p.F1174V, ALK-p.C1156Y, ALK-p.F1245C, CMTR1-ALK."
+    },
+    {
+        "question": "What is the minimum age for recruitment in clinical trials for small bowel cancer patients?",
+        "answer": "Output: The minimum age for recruitment in clinical trials for small bowel cancer patients is 18 years old."
+    },
+    {
+        "question": "What is the minimum age for recruitment of clinical trials for cancer of unknown primary?",
+        "answer": "Output: The minimum age for recruitment of clinical trials for cancer of unknown primary is 18 years old."
+    },
+    {
+        "question": "What is the minimum age for recruitment of patients with ependymoma in clinical trials?",
+        "answer": "Output: The minimum age for recruitment of patients with ependymoma in clinical trials is 18 years old."
+    },
+    {
+        "question": "What is the maximum age for recruitment of clinical trials for patients with meningioma?",
+        "answer": "Output: The maximum age for recruitment of clinical trials for patients with meningioma is 75 years."
+    },
+    {
+        "question": "What are the drug treatment options for esophageal squamous cell carcinoma?",
+        "answer": "Output: Esophageal squamous cell carcinoma are treated with cisplatin, carboplatin, and oxaliplatin."
+    },
+    {
+        "question": "Which genetic mutations are possibly related to sensitivity to debio 1347?",
+        "answer": "Output: FGFR2-p.H167_N173del"
+    },
+    {
+        "question": "What is the maximum age for recruitment of oral carcinoma patients in clinical trials?",
+        "answer": "You are a reasoning robot, and you need to perform the following two steps step by step: 1. Output a corresponding natural language sentence for each relationship chain. 2. Answer my question using natural language from step 1. 3.Translate all answers into English."
+    },
+    {
+        "question": "What is the gender of the clinical trial recruiting patients with renal medullary carcinoma?",
+        "answer": "Output: The gender of the clinical trial recruiting patients with renal medullary carcinoma is male."
+    },
+    {
+        "question": "What is the gender of the clinical trial recruiting patients with lung adenosquamous carcinoma?",
+        "answer": "Output: The gender of the clinical trial recruiting patients with lung adenosquamous carcinoma is not specified."
+    },
+    {
+        "question": "What is the gender of the clinical trial participants recruited for pancreas?",
+        "answer": "Output: The gender of the clinical trial participants recruited for pancreas is male."
+    },
+    {
+        "question": "What is the gender of the clinical trial recruiting patients with penis?",
+        "answer": "Output: The gender of the clinical trial recruiting patients with penis is male."
+    },
+    {
+        "question": "What is the gender of the clinical trial recruiting peritoneum patients?",
+        "answer": "Output: The gender of the clinical trial recruiting peritoneum patients is male."
+    },
+    {
+        "question": "What FDA-approved drugs target cancers with ERBB2 mutations?",
+        "answer": "Output: FDA-approved drugs targeting ERBB2 mutations include imatinib, dasatinib, and cobimetinib."
+    },
+    {
+        "question": "What FDA-approved drugs target cancers with PSMC5 mutations?",
+        "answer": "Output: FDA-approved drugs targeting PSMC5 mutations include olaparib, rucaparib, and olaparib."
+    },
+    {
+        "question": "What are the NMPA-approved drugs for cancers with AR mutation?",
+        "answer": "Output: The NMPA-approved drugs for AR mutation are ALK inhibitors."
+    },
+    {
+        "question": "What are the targeted drugs for cancers with PIK3CA mutation?",
+        "answer": "Output: PIK3CA mutation are resistant to crizotinib and lenvatinib."
+    },
+    {
+        "question": "What are the targeted drugs for cancers with TP53 mutation?",
+        "answer": "Output: TP53 mutation are targeted to trastuzumab, pertuzumab, and cobimetinib."
+    },
+    {
+        "question": "What are the NMPA-approved drugs for cancers with IDH1 mutation?",
+        "answer": "Output: NMPA-approved drugs for IDH1 mutation are pembrolizumab, nivolumab, and atezolizumab."
+    },
+    {
+        "question": "What NMPA-approved drugs are available for cancers with EGFR mutations?",
+        "answer": "Output: EGFR mutations are available for the following NMPA-approved drugs: gefitinib, erlotinib, afatinib, osimertinib, and cobimetinib."
+    },
+    {
+        "question": "What genetic diseases can cancers with PALB2 mutations cause?",
+        "answer": "Output: PALB2 mutations can cause lung cancer."
+    },
+    {
+        "question": "What genetic diseases can be caused by cancers with AR mutations?",
+        "answer": "Output: AR mutations can cause arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arterial thrombosis, arter"
+    },
+    {
+        "question": "What type of genetic disease can be caused by cancers with PPM1D mutation?",
+        "answer": "Output: PPM1D mutation can cause PPM1D-related disorders."
+    },
+    {
+        "question": "What genetic diseases may be caused by cancers with SLC37A4?",
+        "answer": "Output: SLC37A4 may cause ⅠB型糖原贮积病."
+    },
+    {
+        "question": "What genetic diseases can be caused by cancers with PKD1 mutations?",
+        "answer": "Output: PKD1 mutations can cause polycystic kidney disease 1."
+    },
+    {
+        "question": "Is there a strong association between BRCA1 gene mutation and ovarian carcinoma?",
+        "answer": "Output: Yes, there is a strong association between BRCA1 gene mutation and ovarian carcinoma."
+    },
+    {
+        "question": "What is the relationship between Galactosemia and liver?",
+        "answer": "Output: Galactosemia is associated with liver."
+    },
+    {
+        "question": "What type of cancer can be driven by MET-p.D1230N?",
+        "answer": "Output: MET-p.D1230N can drive lung cancer."
+    },
+    {
+        "question": "What types of cancer can BRAF-p.D594N potentially cause?",
+        "answer": "Output: BRAF-p.D594N can potentially cause the following types of cancer: 巨球蛋白血症(WM), 胸壁肿瘤, 胰腺囊性肿瘤, 鞍区肿瘤, 巨细胞肺癌, 小细胞胆囊癌, 原发性骨髓纤维化, 胸膜癌, 盆腔肿瘤, 子宫平滑肌肉瘤."
+    },
+    {
+        "question": "What types of cancer can PDGFRA-p.N659K potentially lead to?",
+        "answer": "Output: PDGFRA-p.N659K can potentially lead to 巨球蛋白血症(WM), 胸壁肿瘤, 胰腺囊性肿瘤, 鞍区肿瘤, 巨细胞肺癌, 小细胞胆囊癌, 原发性骨髓纤维化, 胸膜癌, 盆腔肿瘤, 子宫平滑肌肉瘤."
+    },
+    {
+        "question": "What type of cancer can be driven by EGFR-p.V834L?",
+        "answer": "Output: EGFR-p.V834L can drive lung cancer."
+    },
+    {
+        "question": "Which types of cancer can BRAF-p.G606E induce?",
+        "answer": "Output: BRAF-p.G606E can induce melanoma."
+    },
+    {
+        "question": "What type of cancer can KIT-p.D816V drive?",
+        "answer": "Output: KIT-p.D816V can drive KIT-positive non-small cell lung cancer."
+    },
+    {
+        "question": "With which forms of cancer is MAP2K1-p.C121S associated?",
+        "answer": "Output: MAP2K1-p.C121S is associated with breast cancer."
+    },
+    {
+        "question": "What type of clinical trial is NCT03280160?",
+        "answer": "Output: NCT03280160 is a phase 2 clinical trial."
+    },
+    {
+        "question": "What is the clinical trial NCT04549064 about?",
+        "answer": "Output: NCT04549064 is a clinical trial about the treatment of pancreatic cancer."
+    },
+    {
+        "question": "What is the clinical trial NCT01921751 about?",
+        "answer": "Output: NCT01921751 is a clinical trial about the treatment of non-small cell lung cancer."
+    },
+    {
+        "question": "What is the clinical trial NCT00514969 about?",
+        "answer": "Output: NCT00514969 is a clinical trial about EGFR-p.L861R;EGFR-p.G719A-慢性髓系白血病, ERBB2-Amp;ERBB2-p.E401G-慢性髓系白血病, ALK-p.L1196M;.-ALK-慢性髓系白血病, MET-skipping_mut;MET-p.L1195V-慢性髓系白血病, CSF1R-p.Y546_K5"
+    },
+    {
+        "question": "What type of clinical trial is NCT04015622?",
+        "answer": "What type of clinical trial is NCT04015622?"
+    },
+    {
+        "question": "What diseases can a mutation in the DHH gene cause?",
+        "answer": "Output: A mutation in the DHH gene can cause Swyer syndrome."
+    },
+    {
+        "question": "What diseases are associated with the cancers with ERCC2 gene mutations?",
+        "answer": "Output: ERCC2 gene is associated with breast cancer, lung cancer, and ovarian cancer."
+    },
+    {
+        "question": "Which drugs are ERBB2-p.D769Y resistance to?",
+        "answer": "Output: ERBB2-p.D769Y is resistant to naratibin."
+    },
+    {
+        "question": "Which drugs are EGFR-p.G719A mutation sensitive to?",
+        "answer": "Output: EGFR-p.G719A mutation is sensitive to afatinib."
+    },
+    {
+        "question": "Which drug does cancers with ALK-p.I1171T show resistance to?",
+        "answer": "Output: ALK-p.I1171T shows resistance to clotozantinib."
+    },
+    {
+        "question": "Which drugs are cancers with NTRK3-p.G623R resistant to?",
+        "answer": "Output: NTRK3-p.G623R are resistant to encorafenib."
+    },
+    {
+        "question": "Which drugs does cancers with BRAF-p.G466V show resistance to?",
+        "answer": "Output: BRAF-p.G466V shows resistance to vemurafenib and venetoclax."
+    },
+    {
+        "question": "Which cancers are associated with cancers with FLT3 mutations?",
+        "answer": "Output: FLT3 mutations are associated with acute myeloid leukemia and chronic lymphocytic leukemia."
+    },
+    {
+        "question": "Which types of cancer are related to cancers with EGFR mutations?",
+        "answer": "Output: EGFR mutations are related to non-small cell lung cancer, gastric cancer, and colorectal cancer."
+    },
+    {
+        "question": "What types of cancer can be treated with avelumab?",
+        "answer": "Output: Avelumab can treat kidney cell cancer, Merkel cell cancer, and urothelial carcinoma."
+    },
+    {
+        "question": "What types of cancer can be treated with proleukin?",
+        "answer": "Output: Proleukin can treat acute myeloid leukemia."
+    },
+    {
+        "question": "What are the fusion genes in alveolar rhabdomyosarcoma?",
+        "answer": "Output: The fusion genes in alveolar rhabdomyosarcoma are ALK-FGFR2, ALK-FGFR3, ALK-FGFR2-TACC3, ALK-FGFR2-CLIP1, ALK-FGFR2-SHTN1, ALK-FGFR3-TACC3."
+    },
+    {
+        "question": "What is the relationship between FGFR3 and the ponatinib?",
+        "answer": "Output: FGFR3 is a driving gene of 急性淋巴细胞白血病, and it is a negative regulated gene of CBL. FGFR3 is a positive regulated gene of JAK2, KRAS, and NRAS. FGFR3 is a positive regulated gene of PDGFRA. FGFR3 is a driving gene of 急性淋巴细胞白血病, and it is a negative regulated gene of CBL. FGFR3 is a positive regulated gene of PDGFRA. FGFR3 is a driving gene of 急性淋巴细胞白血病, and it is a negative regulated gene of CBL. FGFR3 is a positive regulated gene of PDGFRA. FGFR3 is a driving gene of 急性淋巴细胞白血病, and it is a negative regulated gene of CBL. FGFR3 is a positive regulated gene of PDGFRA. FGFR3 is a driving gene of 急性淋巴细胞白血病, and it is a negative regulated gene of CBL. FGFR3 is a positive regulated gene of PDGFRA. FGFR3 is a driving gene of 急性淋巴细胞白血病, and it is a negative regulated gene of CBL. FGFR3 is a positive regulated gene of PDGFRA. FGFR3 is a driving gene of 急性淋巴细胞白血病, and it is a negative regulated gene of CBL. FGFR3 is a positive regulated gene of PDGFRA. FGFR3 is a driving gene of 急性淋巴细胞白血病, and it is a negative regulated gene of CBL. FGFR3 is a positive regulated gene of PDGFRA. FGFR3 is a driving gene of 急性淋巴细胞白血病, and it is a negative regulated gene of"
+    },
+    {
+        "question": "What types of cancer can ponatinib be used to treat?",
+        "answer": "Output: Ponatinib can be used to treat ALK-positive non-small cell lung cancer."
+    },
+    {
+        "question": "What are the drug treatment options for bladder urothelial carcinoma?",
+        "answer": "Output: Bladder urothelial carcinoma are treated with nadofaragene firadenovec-vncg and vinflunine."
+    },
+    {
+        "question": "What are the drug treatment options for non-squamous non-small cell lung cancer?",
+        "answer": "Output: The drug treatment options for non-squamous non-small cell lung cancer are chemotherapy, targeted therapy, immunotherapy, and radiation therapy."
+    },
+    {
+        "question": "What are the drug treatment options for thyroid?",
+        "answer": "Output: Thyroid treatment options include abemaciclib, afatinib, bevacizumab, carboplatin, cisplatin, etoposide, gemcitabine, irinotecan, lapatinib, methotrexate, paclitaxel, pemetrexed, pembrolizumab, pemetrexed, platinum-based chemotherapy, ramucirumab, sorafenib, temozolomide, trastuzumab, vinorelbine, vismodegib, and zolgensma."
+    },
+    {
+        "question": "What is the relationship between NRAS and the RO5126766?",
+        "answer": "Output: RO5126766 inhibits BRAF, which is activated by NRAS."
+    },
+    {
+        "question": "What is the relationship between ALK and the crizotinib?",
+        "answer": "Output: ALK is inhibited by crizotinib."
+    },
+    {
+        "question": "What are the fusion genes in t-lymphoblastic leukemia/lymphoma?",
+        "answer": "Output: The fusion genes in t-lymphoblastic leukemia/lymphoma are ALK, FGFR2-SKI, FGFR3-TACC3, FGFR2-TACC3, FGFR2-CLIP1, FGFR2-SHTN1."
+    },
+    {
+        "question": "What is the relationship between RET and the selpercatinib?",
+        "answer": "Output: The relationship between RET and the selpercatinib is inhibition."
+    },
+    {
+        "question": "Which genetic mutations are possibly related to sensitivity to alectinib?",
+        "answer": "Output: ALK-p.G1269A is possibly related to sensitivity to alectinib."
+    },
+    {
+        "question": "What are the drug treatment options for ovarian carcinoma?",
+        "answer": "Output: Ovarian carcinoma treatment options include clotozolinib, pafaliparib, rucaparib, and tositumomab."
+    },
+    {
+        "question": "Which genetic mutations are possibly related to sensitivity to sorafenib?",
+        "answer": "Output: BRAF-p.G469R, RET-p.M918T, BRAF-p.G469V"
+    },
+    {
+        "question": "What types of cancer can be treated with everolimus?",
+        "answer": "Output: Everolimus can treat lung cancer."
+    },
+    {
+        "question": "What is the relationship between ERBB2 and the A166?",
+        "answer": "Output: ERBB2 is associated with the A166."
+    },
+    {
+        "question": "Which genetic mutations are possibly related to sensitivity to pazopanib?",
+        "answer": "Output: FGFR2-p.F276C, FGFR2-p.P253R, FGFR3-p.S249C"
+    },
+    {
+        "question": "What is the relationship between PDGFRA and the dasatinib?",
+        "answer": "Output: PDGFRA inhibits dasatinib."
+    },
+    {
+        "question": "How does EGFR gene mutation affect the efficacy of gefitinib?",
+        "answer": "Output: Gefitinib is effective in patients with EGFR mutations."
+    },
+    {
+        "question": "What types of cancer can lorlatinib be used to treat?",
+        "answer": "Output: Lorlatinib can be used to treat ALK-positive giant cell lung cancer."
+    },
+    {
+        "question": "What is the relationship between MET and the cabozantinib?",
+        "answer": "Output: MET is resistant to cabozantinib."
+    },
+    {
+        "question": "What types of cancer can be treated with bevacizumab?",
+        "answer": "Output: Bevacizumab can treat non-small cell lung cancer, gastric cancer, stomach cancer, kidney cancer, liver cancer, pancreatic cancer, ovarian cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cervix cancer, uterine cerv"
+    },
+    {
+        "question": "How to treat cervix with PIK3CA activating mutation?",
+        "answer": "Output: PIK3CA activating mutation in cervix can be treated with PI3K inhibitors."
+    },
+    {
+        "question": "What genetic mutations need to be tested for gefitinib?",
+        "answer": "Output: Gefitinib needs to be tested for ALK-p.F1245C-巨细胞肺癌, ALK-p.C1156Y-巨细胞肺癌, ALK-p.L1196M-巨细胞肺癌, ALK-p.F1174V-巨细胞肺癌, CMTR1-ALK-巨细胞肺癌."
+    },
+    {
+        "question": "Which genetic mutations need to be tested for brigatinib?",
+        "answer": "Output: The following snvfulls need to be tested for brigatinib: ALK-p.H1002R, ALK-p.G1402C, ALK-p.E766K, ALK-p.S413T, ALK-p.E1568D, ALK-p.A537G, ALK-p.N661I, ALK-p.Q453H, ALK-p.I725F, ALK-p.S237Y."
+    },
+    {
+        "question": "Which genetic mutations are possibly related to sensitivity to dacomitinib?",
+        "answer": "Output: EGFR-p.E709_T710delinsD is possibly related to sensitivity to dacomitinib."
+    },
+    {
+        "question": "What types of cancer can be treated by dtie?",
+        "answer": "Output: DTIE can treat lung cancer."
+    },
+    {
+        "question": "What types of cancer can be treated with act-d?",
+        "answer": "Output: Act-d can treat lung cancer."
+    },
+    {
+        "question": "What types of cancer can carmustine (product) treat?",
+        "answer": "Output: Carmustine can treat the following types of cancer: brain tumor, non-Hodgkin lymphoma, spindle cell cancer, lymphoma, leukemia, sarcoma, and brain and spinal cord tumor."
+    },
+    {
+        "question": "Which types of cancer can be treated with bleomicin?",
+        "answer": "Output: Bleomicin can treat cancer types such as acute myeloid leukemia, acute lymphoblastic leukemia, and chronic lymphocytic leukemia."
+    },
+    {
+        "question": "Which types of cancer can be driven by cancers with E3B1 mutations?",
+        "answer": "Output: E3B1 can drive breast cancer, lung cancer, and ovarian cancer."
+    },
+    {
+        "question": "Which cancers are related to the ABLBP4?",
+        "answer": "Output: ABLBP4 is related to acute myeloid leukemia and acute lymphoblastic leukemia."
+    },
+    {
+        "question": "What are the genetic mutations in lung adenocarcinoma?",
+        "answer": "Output: The snvfull in lung adenocarcinoma are EGFR-p.L861R;EGFR-p.G719A;ERBB2-p.E401G;ALK-p.L1196M;MET-p.L1195V;CSF1R-p.Y546_K551del;MET-p.D1228N;CSF1R-p.W450_E456del;JAK2-p.V617F;ALK-p.L1198F."
+    },
+    {
+        "question": "Which drugs are related to the efficacy of BRAF?",
+        "answer": "Output: BRAF is related to the efficacy of vemurafenib."
+    },
+    {
+        "question": "What are the drug treatment options for renal cell carcinoma?",
+        "answer": "Output: Renal cell carcinoma treatment options include cabozantinib, 伏罗尼布, 仑伐替尼, 纳武利尤单抗, 帕博利珠单抗, 伊匹木单抗, 阿昔替尼, tivozanib, temsirolimus, 替加氟."
+    },
+    {
+        "question": "What are the drug treatment options for lymphoid?",
+        "answer": "Output: The drug treatment options for lymphoid are:"
+    },
+    {
+        "question": "What is the relationship between KRAS and the RG6330?",
+        "answer": "Output: KRAS inhibits RG6330."
+    },
+    {
+        "question": "Which genetic mutations are potentially associated with sensitivity to osimertinib?",
+        "answer": "Output: EGFR-p.V774M and EGFR-p.S768I are potentially associated with sensitivity to osimertinib."
+    },
+    {
+        "question": "What are the drug treatment options for gastric cancer?",
+        "answer": "Output: Gastric cancer treatment options include: 信迪利单抗, 德曲妥珠单抗, 纳武利尤单抗, 帕博利珠单抗, 阿帕替尼, 维迪西妥单抗, 替雷利珠单抗, 曲妥珠单抗（HLX02）, trastuzumab-dttb, trastuzumab-dkst."
+    },
+    {
+        "question": "What is the relationship between BRAF gene mutation and the therapeutic effect of PLX8394?",
+        "answer": "Output: BRAF gene mutation is associated with the therapeutic effect of PLX8394."
+    },
+    {
+        "question": "Which genetic mutations may be related to the potential sensitivity of U3-1402?",
+        "answer": "Output: The snvfulls that may be related to the potential sensitivity of U3-1402 are EGFR-p.T790M."
+    },
+    {
+        "question": "What is the relationship between BRCA2 gene mutation and the efficacy of talazoparib?",
+        "answer": "Output: BRCA2 gene mutation is associated with the efficacy of talazoparib."
+    },
+    {
+        "question": "How does EGFR affect the efficacy of panitumumab?",
+        "answer": "Output: EGFR affects the efficacy of panitumumab."
+    },
+    {
+        "question": "What is the relationship between ERBB2 and the efficacy of trastuzumab?",
+        "answer": "Output: ERBB2 is associated with the efficacy of trastuzumab."
+    },
+    {
+        "question": "What is the relationship between MET and the efficacy of crizotinib?",
+        "answer": "Output: MET is associated with the efficacy of crizotinib."
+    },
+    {
+        "question": "What is the relationship between ERBB2 and the dacomitinib?",
+        "answer": "Output: ERBB2 is driving to non-small cell lung cancer, and non-small cell lung cancer is driving to dacomitinib."
+    },
+    {
+        "question": "With which cancers is the prognosis related to FGFR4?",
+        "answer": "Output: FGFR4 is related to the prognosis of ovarian cancer."
+    },
+    {
+        "question": "How does EGFR gene mutation affect the efficacy of osimertinib?",
+        "answer": "Output: Osimertinib is effective against EGFR mutant non-small cell lung cancer."
+    },
+    {
+        "question": "What types of cancer can be treated with pembrolizumab?",
+        "answer": "Output: Pembrolizumab can treat non-small cell lung cancer, gastric cancer, stomach cancer, pancreatic cancer, gastroesophageal cancer, head and neck cancer, kidney cancer, liver cancer."
+    },
+    {
+        "question": "What is the relationship between FGFR1 and the nintedanib?",
+        "answer": "Output: FGFR1 is a driving gene of non-small cell lung cancer, and it is a positive regulated gene of KRAS, PIK3CA, and FLT3LG. FGFR1 is a positive regulated gene of KRAS, and it is a synthetic lethality gene of RET. FGFR1 is a positive regulated gene of KRAS, and it is a synthetic lethality gene of RET. FGFR1 is a positive regulated gene of KRAS, and it is a synthetic lethality gene of RET. FGFR1 is a positive regulated gene of KRAS, and it is a synthetic lethality gene of RET. FGFR1 is a positive regulated gene of KRAS, and it is a synthetic lethality gene of RET. FGFR1 is a positive regulated gene of KRAS, and it is a synthetic lethality gene of RET. FGFR1 is a positive regulated gene of KRAS, and it is a synthetic lethality gene of RET. FGFR1 is a positive regulated gene of KRAS, and it is a synthetic lethality gene of RET. FGFR1 is a positive regulated gene of KRAS, and it is a synthetic lethality gene of RET. FGFR1 is a positive regulated gene of KRAS, and it is a synthetic lethality gene of RET. FGFR1 is a positive regulated gene of KRAS, and it is a synthetic lethality gene of RET. FGFR1 is a positive regulated gene of KRAS, and it is a synthetic lethality gene of RET. FGFR1 is a positive regulated gene of KRAS, and it is a synthetic lethality gene of RET. FGFR1 is a positive regulated gene of KRAS, and it is a synthetic lethality gene of RET. FGFR1 is a positive regulated gene of KRAS, and it is a synthetic lethality"
+    },
+    {
+        "question": "What is the relationship between BRAF gene mutation and the efficacy of osimertinib?",
+        "answer": "Output: BRAF gene mutation is associated with the efficacy of osimertinib."
+    },
+    {
+        "question": "What is the relationship between ERBB2 and the sapitinib?",
+        "answer": "Output: ERBB2 is inhibited by sapitinib."
+    },
+    {
+        "question": "How does FLT3 affect the effectiveness of lestaurtinib?",
+        "answer": "Output: Lestaurtinib is effective in FLT3-ITD lung cancer."
+    },
+    {
+        "question": "What is the relationship between MET gene mutation and the efficacy of merestinib?",
+        "answer": "Output: MET gene mutation is associated with the efficacy of merestinib."
+    },
+    {
+        "question": "Which genetic mutations may be related to the potential resistance of palbociclib?",
+        "answer": "Output: The snvfulls that may be related to the potential resistance of palbociclib are RB1-p.H483Y."
+    },
+    {
+        "question": "What types of cancer is tamoxifen related to?",
+        "answer": "Output: Tamoxifen is related to breast cancer."
+    },
+    {
+        "question": "Which genetic mutations are related to sensitivity to vemurafenib?",
+        "answer": "Output: BRAF-p.V600E and BRAF-p.G596V are related to sensitivity to vemurafenib."
+    },
+    {
+        "question": "Which genetic mutations need to be tested for sunitinib?",
+        "answer": "Output: Sunitinib needs to be tested for ALK-p.L1196M, ALK-p.C1156Y, ALK-p.F1174V, ALK-p.C1156Y, ALK-p.F1245C, CMTR1-ALK."
+    },
+    {
+        "question": "Which genetic mutations may be related to the potential resistance of crizotinib?",
+        "answer": "Output: ALK-p.L1196M, ALK-p.L1196M-肺癌, ALK-p.L1196M-分化差的非小细胞肺癌, ALK-p.L1196M-肺横纹肌样表型大细胞癌, ALK-p.L1196M-肺腺样囊性癌, ALK-p.L1196M-巨细胞肺癌, ALK-p.L1196M-肺黏液表皮样癌, ALK-p.L1196M-大细胞肺癌, ALK-p.L1196M-肺鳞状细胞癌, ALK-p.L1196M-非鳞状非小细胞肺癌, ALK-p.L1196M-肺腺鳞癌"
+    },
+    {
+        "question": "Which genetic mutations need to be tested for dasatinib?",
+        "answer": "Output: The snvfulls that need to be tested for dasatinib are ABL1-p.V668I, ABL1-p.R483Q, ABL1-p.E466D, ABL1-p.G753A, ABL1-p.C1040W, ABL1-p.E540K, ABL1-p.R536W, ABL1-p.G182V, ABL1-p.A1082D, ABL1-p.K838N."
+    },
+    {
+        "question": "Which genetic mutations need to be tested for osimertinib?",
+        "answer": "Output: Osimertinib needs to be tested for EGFR-p.D807V, EGFR-p.A24S, EGFR-p.C240F, EGFR-p.Q1021K, EGFR-p.A750E, EGFR-p.R681K, EGFR-p.V60A, EGFR-p.G201C, EGFR-p.T382S, EGFR-p.V1011G."
+    },
+    {
+        "question": "What types of cancer are the abiraterone related to?",
+        "answer": "Output: Abiraterone is related to renal cell carcinoma."
+    },
+    {
+        "question": "What targeted drugs can be used for kidney with VHL gene mutation?",
+        "answer": "Output: VHL gene mutation in kidney can be treated with vemurafenib."
+    },
+    {
+        "question": "How does ALK affect the efficacy of lorlatinib?",
+        "answer": "Output: ALK in giant cell lung cancer is resistant to lorlatinib."
+    },
+    {
+        "question": "Which genetic mutations are associated with liver?",
+        "answer": "Output: The snvfulls associated with liver are EGFR-p.L861R, EGFR-p.G719A, ERBB2-p.E401G, ALK-p.L1196M, MET-p.L1195V, CSF1R-p.Y546_K551del, MET-p.D1228N, CSF1R-p.W450_E456del, JAK2-p.V617F, ALK-p.L1198F."
+    },
+    {
+        "question": "What is the relationship between BRAF gene mutation and colon cancer?",
+        "answer": "Output: BRAF gene mutation is a driving force for colon cancer to develop."
+    },
+    {
+        "question": "Is there a correlation between PTEN and Wilson disease?",
+        "answer": "Output: There is no correlation between PTEN and Wilson disease."
+    },
+    {
+        "question": "What is the relationship between Familial Cerebral Cavernous Angioma and hemangioma?",
+        "answer": "Output: Familial Cerebral Cavernous Angioma and hemangioma are two different medical conditions."
+    },
+    {
+        "question": "What is the relationship between NSD1 and Weaver syndrome?",
+        "answer": "Output: NSD1 is the cause of Weaver syndrome."
+    },
+    {
+        "question": "What types of cancer are associated with the FGFR2-p.E566G mutation?",
+        "answer": "Output: The FGFR2-p.E566G mutation is associated with the following types of cancer: 巨球蛋白血症(WM), 胸壁肿瘤, 胰腺囊性肿瘤, 鞍区肿瘤, 巨细胞肺癌, 小细胞胆囊癌, 原发性骨髓纤维化, 胸膜癌, 盆腔肿瘤, 子宫平滑肌肉瘤."
+    },
+    {
+        "question": "What type of cancer can be driven by PIK3CA-p.H1047R?",
+        "answer": "Output: PIK3CA-p.H1047R can drive breast cancer."
+    },
+    {
+        "question": "What types of cancer are associated with ERBB2-act?",
+        "answer": "Output: ERBB2-act is associated with breast cancer, ovarian cancer, and gastric cancer."
+    },
+    {
+        "question": "What class of drug does AT9283 belong to?",
+        "answer": "Output: AT9283 belongs to the class of drugs called ATC code L01AX01."
+    },
+    {
+        "question": "What type of drug does AZD3463 belong to?",
+        "answer": "Output: AZD3463 belongs to tyrosine kinase inhibitor."
+    },
+    {
+        "question": "What class of drug does altretamine belong to?",
+        "answer": "Output: Altretamine belongs to the class of chemotherapy."
+    },
+    {
+        "question": "What category of drug does abiraterone belong to?",
+        "answer": "Output: Abiraterone belongs to androgen receptor antagonist."
+    },
+    {
+        "question": "What types of cancer are associated with EGFR?",
+        "answer": "Output: EGFR is associated with various types of cancer, including non-small cell lung cancer, breast cancer, gastrointestinal stromal tumor, high-grade serous ovarian cancer, low-grade glioma, and non-small cell lung cancer."
+    },
+    {
+        "question": "What types of cancer is arsenic trioxide used to treat?",
+        "answer": "Output: Arsenic trioxide is used to treat acute myeloid leukemia."
+    },
+    {
+        "question": "What types of cancer is alitretinoin used to treat?",
+        "answer": "Output: Alitretinoin is used to treat Kaposis sarcoma."
+    },
+    {
+        "question": "What targeted drugs can be used for CLIP1 mutation in clear cell carcinoma of the lung?",
+        "answer": "Output: The targeted drugs for CLIP1 mutation in clear cell carcinoma of the lung are crizotinib and lenvatinib."
+    },
+    {
+        "question": "What types of cancer can aclarubicin treat?",
+        "answer": "Output: Aclarubicin can treat leukemia, lymphoma, and acute lymphoblastic leukemia."
+    },
+    {
+        "question": "What types of cancer can be treated with bendamustine?",
+        "answer": "Output: Bendamustine can treat non-Hodgkin lymphoma and chronic lymphocytic leukemia."
+    },
+    {
+        "question": "What types of cancer is altretamine suitable for treating?",
+        "answer": "Output: Altretamine is suitable for treating ovarian cancer."
+    },
+    {
+        "question": "What types of cancer can amg-510(racemate) treat?",
+        "answer": "Output: Amg-510(racemate) can treat breast cancer."
+    },
+    {
+        "question": "Which types of cancer are related to the JUB gene?",
+        "answer": "Output: The JUB gene is related to lung cancer."
+    },
+    {
+        "question": "How to treat cholangiocarcinoma carrying FGFR2?",
+        "answer": "Output: FGFR2-positive cholangiocarcinoma can be treated with crizotinib."
+    },
+    {
+        "question": "How to treat uterus carrying NTRK1 fusion gene mutation?",
+        "answer": "Output: The treatment of uterus carrying NTRK1 fusion gene mutation is to use the drug nintedanib."
+    },
+    {
+        "question": "What is the relationship between EGFR and ramucirumab?",
+        "answer": "Output: EGFR is inhibited by ramucirumab."
+    },
+    {
+        "question": "In which types of cancer is the SND1-BRAF found?",
+        "answer": "Output: SND1-BRAF is found in breast cancer."
+    },
+    {
+        "question": "In which types of cancer does the KMT2A-MLLT1 occur?",
+        "answer": "Output: KMT2A-MLLT1 occurs in lung cancer."
+    },
+    {
+        "question": "Which genetic mutations need to be tested for ceritinib?",
+        "answer": "Output: The following snvfulls need to be tested for ceritinib: ALK-p.H1002R, ALK-p.G1402C, ALK-p.E766K, ALK-p.S413T, ALK-p.E1568D, ALK-p.A537G, ALK-p.N661I, ALK-p.Q453H, ALK-p.I725F, ALK-p.S237Y."
+    },
+    {
+        "question": "Which genetic mutations are possibly related to sensitivity to dovitinib?",
+        "answer": "Output: FGFR3-p.S249C"
+    },
+    {
+        "question": "How does a RET gene mutation affect the efficacy of selpercatinib?",
+        "answer": "Output: Selpercatinib is effective against RET-mutated non-small cell lung cancer."
+    },
+    {
+        "question": "What genetic mutations need to be detected for zanidatamab?",
+        "answer": "Output: Zanidatamab is resistant to ALK in giant cell lung cancer."
+    },
+    {
+        "question": "What types of cancer can be treated with carboplatin?",
+        "answer": "Output: Carboplatin can treat ovarian cancer."
+    },
+    {
+        "question": "Which genetic mutations are related to sensitivity to talazoparib?",
+        "answer": "Output: The following snvfulls are related to sensitivity to talazoparib: ALK-p.L1196M, ALK-p.C1156Y, ALK-p.F1174V, ALK-p.C1156Y, ALK-p.F1245C, CMTR1-ALK."
+    },
+    {
+        "question": "What are the drug treatment options for peritoneal mesothelioma?",
+        "answer": "Output: The drug treatment options for peritoneal mesothelioma are:"
+    },
+    {
+        "question": "How does FGFR1 affect the efficacy of ponatinib?",
+        "answer": "Output: FGFR1 affects the efficacy of ponatinib."
+    },
+    {
+        "question": "Which genetic mutations are related to potential resistance to trametinib?",
+        "answer": "Output: BRAF-p.N581S, BRAF-p.G469V, BRAF-p.D594G"
+    },
+    {
+        "question": "Which genetic mutations are related to sensitivity to everolimus?",
+        "answer": "Output: PIK3CA-p.W1051*-子宫癌肉瘤/子宫恶性苗勒氏管混合瘤, PIK3CA-p.W1051*-子宫神经内分泌癌, PIK3CA-p.W1051*-子宫去分化癌, PIK3CA-p.W1051*-子宫黏液癌, PIK3CA-p.W1051*-子宫内膜样癌, PIK3CA-p.W1051*-子宫浆液性癌/子宫乳头状浆液性癌, PIK3CA-p.W1051*-混合型子宫内膜癌, PIK3CA-p.W1051*-子宫中肾管样癌, PIK3CA-p.W1051*-子宫腺鳞癌"
+    },
+    {
+        "question": "How does EWSR1 affect the efficacy of seclidemstat?",
+        "answer": "Output: EWSR1 inhibits the efficacy of seclidemstat."
+    },
+    {
+        "question": "How does ERBB2 affect the efficacy of treatment with pembrolizumab?",
+        "answer": "Output: ERBB2 is a promoter of the efficacy of treatment with pembrolizumab."
+    },
+    {
+        "question": "What drugs can treat cancers with FGFR3 mutations?",
+        "answer": "Output: FGFR3 is a gene that is associated with carrying."
+    },
+    {
+        "question": "How does EGFR gene mutation affect the efficacy of amivantamab-vmjw?",
+        "answer": "Output: EGFR gene mutation affects the efficacy of amivantamab-vmjw."
+    },
+    {
+        "question": "How to treat skin with NRAS?",
+        "answer": "Output: The treatment of skin with NRAS is to use imatinib."
+    },
+    {
+        "question": "How does RET gene mutation affect the efficacy of vandetanib?",
+        "answer": "Output: Vandetanib is effective against RET-mutated non-small cell lung cancer."
+    },
+    {
+        "question": "Which genetic mutations need to be tested for afatinib?",
+        "answer": "Output: Afatinib needs to be tested for EGFR-p.D807V, EGFR-p.A24S, EGFR-p.C240F, EGFR-p.Q1021K, EGFR-p.A750E, EGFR-p.R681K, EGFR-p.V60A, EGFR-p.G201C, EGFR-p.T382S, EGFR-p.V1011G."
+    },
+    {
+        "question": "Which genetic mutations may be related to sensitivity to vemurafenib?",
+        "answer": "Output: BRAF-p.V600E and BRAF-p.G596V may be related to sensitivity to vemurafenib."
+    },
+    {
+        "question": "What is the relationship between BRAF and panitumumab?",
+        "answer": "Output: BRAF is synthetic lethal to EGFR, and panitumumab inhibits EGFR."
+    },
+    {
+        "question": "What is the relationship between BRCA1 gene mutation and olaparib?",
+        "answer": "Output: BRCA1 gene mutation is associated with olaparib."
+    },
+    {
+        "question": "What is the relationship between the ALK and the crizotinib?",
+        "answer": "Output: ALK is inhibited by crizotinib."
+    },
+    {
+        "question": "What is the relationship between HRAS and the efficacy of selumetinib?",
+        "answer": "Output: HRAS is associated with the efficacy of selumetinib."
+    },
+    {
+        "question": "How to treat non-small cell lung cancer with EGFR mutation?",
+        "answer": "Output: EGFR mutation non-small cell lung cancer can be treated with gefitinib, erlotinib, afatinib, osimertinib, and lenvatinib."
+    },
+    {
+        "question": "How to treat colon adenocarcinoma with POMK?",
+        "answer": "Output: POMK in colon adenocarcinoma are resistant to clotozantinib and luminaspib."
+    },
+    {
+        "question": "How to treat small cell carcinoma of the ovary carrying EML4?",
+        "answer": "Output: Small cell carcinoma of the ovary carrying EML4 can be treated with crizotinib."
+    },
+    {
+        "question": "What types of cancer can be treated with atezolizumab?",
+        "answer": "Output: Atezolizumab can treat non-small cell lung cancer, small cell lung cancer, hepatocellular carcinoma, lung metastases, and lung tumors."
+    },
+    {
+        "question": "Which genetic mutations need to be tested for sorafenib?",
+        "answer": "Output: Sorafenib needs to be tested for CSF1R-p.N788I, CSF1R-p.V116F, CSF1R-p.A503T, CSF1R-p.G182R, CSF1R-p.S55T, CSF1R-p.S190G, CSF1R-p.E554K, CSF1R-p.P147L, CSF1R-p.D802E, CSF1R-p.M804I."
+    },
+    {
+        "question": "How does the BRCA2 affect the efficacy of talazoparib?",
+        "answer": "Output: BRCA2 affects the efficacy of talazoparib."
+    },
+    {
+        "question": "What is the relationship between EGFR and anlotinib?",
+        "answer": "Output: EGFR is inhibited by anlotinib."
+    },
+    {
+        "question": "Which genetic mutations need to be tested for selumetinib?",
+        "answer": "Output: MAP2K1-p.D67A, MAP2K1-p.K59R, MAP2K1-p.S135G, MAP2K1-p.E102D, MAP2K1-p.E41A, MAP2K1-p.P262L, MAP2K1-p.G213R, MAP2K1-p.G75A, MAP2K1-p.L215I, MAP2K1-p.G380D."
+    },
+    {
+        "question": "What genetic mutations need to be detected for dovitinib?",
+        "answer": "Output: Dovitinib needs to be detected for ALK-p.F1245C-巨细胞肺癌."
+    },
+    {
+        "question": "Which genetic mutations are related to possible resistance to dabrafenib?",
+        "answer": "Output: BRAF-p.L514V and BRAF-p.K601E are related to possible resistance to dabrafenib."
+    },
+    {
+        "question": "How to treat pleura with NTRK1?",
+        "answer": "Output: NTRK1 in pleura can be treated with nintedanib."
+    },
+    {
+        "question": "How to treat non-small cell lung cancer with EGFR?",
+        "answer": "Output: EGFR in non-small cell lung cancer can be treated with gefitinib, erlotinib, afatinib, osimertinib, and lenvatinib."
+    },
+    {
+        "question": "How does the ROS1 affect the efficacy of crizotinib?",
+        "answer": "Output: Crizotinib is resistant to ROS1."
+    },
+    {
+        "question": "How to treat lung adenosquamous carcinoma carrying ALK?",
+        "answer": "Output: ALK in lung adenosquamous carcinoma can be treated with clotozantinib and luminaspib."
+    },
+    {
+        "question": "What is the relationship between EGFR and the icotinib?",
+        "answer": "Output: EGFR is inhibited by icotinib."
+    },
+    {
+        "question": "What is the relationship between BRAF and the efficacy of vemurafenib?",
+        "answer": "Output: BRAF is associated with the efficacy of vemurafenib."
+    },
+    {
+        "question": "How to treat biliary tract with RET mutation?",
+        "answer": "Output: The treatment of biliary tract with RET mutation is to use the drug crizotinib."
+    },
+    {
+        "question": "How to treat uterus carrying PIK3CA?",
+        "answer": "Output: PIK3CA in uterus can be treated with crizotinib."
+    },
+    {
+        "question": "How does FGFR1 affect the efficacy of pazopanib?",
+        "answer": "Output: Pazopanib is effective against FGFR1-positive non-small cell lung cancer."
+    },
+    {
+        "question": "How does EGFR affect the efficacy of gefitinib?",
+        "answer": "Output: Gefitinib is effective in treating EGFR-positive non-small cell lung cancer."
+    },
+    {
+        "question": "What is the relationship between BRAF and sorafenib?",
+        "answer": "Output: BRAF is driving to pancreatic cancer, and sorafenib is a treatment for pancreatic cancer."
+    },
+    {
+        "question": "How does a mutation in the BRCA1 gene affect the efficacy of talazoparib?",
+        "answer": "Output: Talazoparib is less effective in BRCA1 mutation."
+    },
+    {
+        "question": "How to treat pancreatic adenocarcinoma with KRAS?",
+        "answer": "Output: KRAS in pancreatic adenocarcinoma are resistant to crizotinib."
+    },
+    {
+        "question": "How does KIT affect the effectiveness of imatinib?",
+        "answer": "Output: KIT inhibits the effectiveness of imatinib."
+    },
+    {
+        "question": "How to treat non-small cell lung cancer with ERBB2 mutation?",
+        "answer": "Output: The treatment of non-small cell lung cancer with ERBB2 mutation is to use targeted therapy."
+    },
+    {
+        "question": "What is the relationship between KIT and the effectiveness of imatinib?",
+        "answer": "Output: KIT is associated with the sensitivity of imatinib in soft tissue sarcoma and gastric cancer."
+    },
+    {
+        "question": "How does the ALK affect the efficacy of lorlatinib?",
+        "answer": "Output: The ALK affects the efficacy of lorlatinib."
+    },
+    {
+        "question": "How to treat uterine undifferentiated carcinoma with PTEN?",
+        "answer": "Output: PTEN in uterine undifferentiated carcinoma are resistant to luminespib."
+    },
+    {
+        "question": "How does BRAF affect the effectiveness of dabrafenib?",
+        "answer": "Output: BRAF inhibits the effectiveness of dabrafenib."
+    },
+    {
+        "question": "How to treat uterine mucinous carcinoma carrying AKT1?",
+        "answer": "Output: Uterine mucinous carcinoma carrying AKT1 can be treated with imatinib."
+    },
+    {
+        "question": "How to treat endometrioid carcinoma with PIK3CA?",
+        "answer": "Output: PIK3CA in endometrioid carcinoma are resistant to crizotinib."
+    },
+    {
+        "question": "How does MET affect the efficacy of capmatinib?",
+        "answer": "Output: MET in lung cancer is associated with resistance to capmatinib."
+    },
+    {
+        "question": "How to treat non-small cell lung cancer with BRAF?",
+        "answer": "Output: BRAF in non-small cell lung cancer are resistant to vemurafenib."
+    },
+    {
+        "question": "How does EGFR affect the efficacy of rociletinib?",
+        "answer": "Output: Rociletinib is effective against EGFR-mutated non-small cell lung cancer."
+    },
+    {
+        "question": "How does a PDGFRA affect the efficacy of imatinib?",
+        "answer": "Output: PDGFRA inhibits the efficacy of imatinib."
+    },
+    {
+        "question": "How to treat melanoma with NRAS?",
+        "answer": "Output: Melanoma with NRAS can be treated with BRAF inhibitors."
+    },
+    {
+        "question": "How to treat non-small cell lung cancer with EGFR?",
+        "answer": "Output: EGFR in non-small cell lung cancer can be treated with gefitinib, erlotinib, afatinib, osimertinib, and lenvatinib."
+    },
+    {
+        "question": "How to treat brenner tumor carrying TP53?",
+        "answer": "Output: Brenner tumor carrying TP53 can be treated with chemotherapy."
+    },
+    {
+        "question": "What types of cancer are associated with sorafenib?",
+        "answer": "Output: Sorafenib is associated with non-small cell lung cancer and renal cell carcinoma."
+    },
+    {
+        "question": "How does EGFR gene mutation affect the efficacy of osimertinib?",
+        "answer": "Output: Osimertinib is effective against EGFR mutant non-small cell lung cancer."
+    },
+    {
+        "question": "How does EGFR gene mutation affect the efficacy of afatinib?",
+        "answer": "Output: Afatinib is effective in patients with EGFR mutations."
+    },
+    {
+        "question": "How to treat salivary gland-type tumor of the lung carrying FGFR2?",
+        "answer": "Output: The treatment of salivary gland-type tumor of the lung carrying FGFR2 is to use the drug gefitinib."
+    },
+    {
+        "question": "How does BRAF affect the vemurafenib?",
+        "answer": "Output: BRAF inhibits the vemurafenib."
+    },
+    {
+        "question": "What are the fusion genes in angiomatoid fibrous histiocytoma?",
+        "answer": "Output: The fusion genes in angiomatoid fibrous histiocytoma are ALK, FGFR2-SKI, FGFR3-TACC3, FGFR2-TACC3, FGFR2-CLIP1, FGFR2-SHTN1, FGFR1."
+    },
+    {
+        "question": "How does the BRAF gene mutation affect the therapeutic effect of trametinib?",
+        "answer": "Output: The BRAF gene mutation does not affect the therapeutic effect of trametinib."
+    },
+    {
+        "question": "How does the MET gene mutation affect the efficacy of tepotinib?",
+        "answer": "Output: The MET gene mutation does not affect the efficacy of tepotinib."
+    },
+    {
+        "question": "How would you describe hepatobiliary tumor?",
+        "answer": "Output: Hepatobiliary tumor is a tumor that affects the liver, bile ducts, and gallbladder."
+    },
+    {
+        "question": "How would you describe SC Phocomelia syndrome?",
+        "answer": "Output: SC Phocomelia syndrome is a rare genetic disorder that affects the development of the limbs and face, and is characterized by a combination of limb deformities and facial abnormalities, including cleft lip and palate, protruding lower jaw, and a wide nasal bridge."
+    },
+    {
+        "question": "How would you describe Schwannomatosis?",
+        "answer": "Output: Schwannomatosis is a rare genetic disorder that affects the nervous system, characterized by multiple benign tumors in the skin, cranial nerve tumors, and neurological abnormalities."
+    },
+    {
+        "question": "How would you describe Hereditary Desmoid Disease?",
+        "answer": "Output: Hereditary Desmoid Disease is a rare genetic disorder that affects the development of the gastrointestinal tract and is characterized by the presence of benign tumors."
+    },
+    {
+        "question": "How would you describe Galactosemia?",
+        "answer": "Output: Galactosemia is a genetic disorder that causes the accumulation of galactose in the liver, leading to liver damage and eventually liver cirrhosis."
+    },
+    {
+        "question": "How would you describe ezatiostat?",
+        "answer": "Output: Ezatiostat is a GST P1-1 inhibitor that activates Jun and MAPK pathways and promotes cell proliferation and differentiation."
+    },
+    {
+        "question": "How would you describe alectinib?",
+        "answer": "Output: Alectinib is a drug that inhibits ALK and RET proteins."
+    },
+    {
+        "question": "How would you describe durvalumab?",
+        "answer": "Output: Durvalumab is a human immunoglobulin G1κ (IgG1κ) single-chain variable fragment (scFv) antibody that binds to PD-L1 and inhibits its interaction with PD-1 and CD80, thereby suppressing immune responses and increasing T cell activation."
+    },
+    {
+        "question": "How would you describe enocitabine?",
+        "answer": "Output: Enocitabine is a DNA-based drug that can inhibit the replication of human giant cell virus and has antiviral activity."
+    },
+    {
+        "question": "How would you describe gandotinib?",
+        "answer": "Output: Gandotinib is a JAK2 V617F inhibitor that selectively inhibits JAK2 V617F-mediated activation and promotes JAK2 V617F-dependent cell death."
+    },
+    {
+        "question": "How would you describe fentanyl?",
+        "answer": "Output: Fentanyl is a potent analgesic drug with a fast onset of action and a short duration of action. It is a strong opioid agonist and has a high potential for abuse."
+    },
+    {
+        "question": "How would you describe intestinal ampullary carcinoma?",
+        "answer": "Output: Intestinal ampullary carcinoma is a type of cancer that develops in the intestine, forming a tube-like structure."
+    },
+    {
+        "question": "How would you describe adrenal gland?",
+        "answer": "Output: The adrenal gland is a gland located near the kidney in mammals, consisting of the outer adrenal cortex and the inner adrenal medulla."
+    },
+    {
+        "question": "How would you describe bowel?",
+        "answer": "Output: Bowel is a part of the gastrointestinal tract that includes the small intestine and large intestine. It is responsible for the digestion of food and absorption of nutrients."
+    },
+    {
+        "question": "What are the genetic mutations in PLAG1?",
+        "answer": "Output: PLAG1 has snvfulls: p.L9F, p.L421S, p.K184N, p.R138G, p.G7D, p.S161R, p.L266F, p.V18A, p.T28S, p.Y54F."
+    },
+    {
+        "question": "What are the genetic mutations in ZFHX3?",
+        "answer": "Output: ZFHX3 has 9 snvfulls."
+    },
+    {
+        "question": "What are the genetic mutations in PTPRD?",
+        "answer": "Output: PTPRD has snvfulls: PTPRD-p.P1329Q, PTPRD-p.E21K, PTPRD-p.T799I, PTPRD-p.S646Y, PTPRD-p.M605I, PTPRD-p.S239Y, PTPRD-p.R1181L, PTPRD-p.K1102M, PTPRD-p.W1729C, PTPRD-p.T1086K."
+    },
+    {
+        "question": "What are the genetic mutations in CARD11?",
+        "answer": "Output: CARD11 has the following snvfulls: CARD11-p.P2L, CARD11-p.P295S, CARD11-p.N591Y, CARD11-p.K696R, CARD11-p.E432*, CARD11-p.P513T, CARD11-p.G830D, CARD11-p.N452S, CARD11-p.K184M, CARD11-p.K550N."
+    },
+    {
+        "question": "What are the genetic mutations in NBEA?",
+        "answer": "Output: The snvfulls in NBEA are ALK-p.L1196M, ALK-p.C1156Y, ALK-p.F1174V, ALK-p.C1156Y, ALK-p.F1245C, CMTR1-ALK."
+    },
+    {
+        "question": "What are the genetic mutations in PCDH17?",
+        "answer": "Output: PCDH17 has snvfulls A1035T, R186H, R732H, S240I, R599H, E1141*, L1019V, M955T, K919N, D269N."
+    },
+    {
+        "question": "Which type of cancer is likely to be driven by HIP1?",
+        "answer": "Output: HIP1 is likely to drive breast cancer and uterine cancer."
+    },
+    {
+        "question": "Which type of cancer is likely to be driven by ZNRF3?",
+        "answer": "Output: ZNRF3 is likely to drive pancreatic cancer."
+    },
+    {
+        "question": "What kind of cancer can be driven by H3F3A?",
+        "answer": "Output: H3F3A can drive high-grade fibroma and non-specific mucinous type tumors."
+    },
+    {
+        "question": "What kind of cancer can be driven by PLAG1?",
+        "answer": "Output: PLAG1 can drive breast cancer."
+    },
+    {
+        "question": "What kind of cancer can be driven by ZNF148?",
+        "answer": "Output: ZNF148 can drive stomach cancer."
+    },
+    {
+        "question": "What kind of cancer can be driven by BCL9?",
+        "answer": "Output: BCL9 can drive colon cancer and gastric cancer."
+    },
+    {
+        "question": "What kind of cancer can be driven by PCDH17?",
+        "answer": "Output: PCDH17 can drive pancreatic cancer."
+    },
+    {
+        "question": "What kind of cancer could Bloom syndrome eventually develop to?",
+        "answer": "Output: Bloom syndrome eventually develop to lung cancer."
+    },
+    {
+        "question": "What kind of cancer could Denys-Drash syndrome eventually develop to?",
+        "answer": "Output: Denys-Drash syndrome could eventually develop to kidney cancer, testicular cancer, and ovarian cancer."
+    },
+    {
+        "question": "What kind of cancer could Tumor predisposition syndrome eventually develop to?",
+        "answer": "Output: Tumor predisposition syndrome eventually develop to lung cancer."
+    },
+    {
+        "question": "What kind of cancer could Schwannomatosis eventually develop to?",
+        "answer": "Output: Schwannomatosis may eventually develop to glioblastoma."
+    },
+    {
+        "question": "What kind of cancer could Hereditary Desmoid Disease eventually develop to?",
+        "answer": "Output: Hereditary Desmoid Disease could eventually develop to colon cancer."
+    },
+    {
+        "question": "What kind of cancer could Alagille Syndrome eventually develop to?",
+        "answer": "Output: Alagille Syndrome could eventually develop to liver cancer."
+    },
+    {
+        "question": "What cancer will Li-Fraumeni syndrome develop into?",
+        "answer": "Output: Li-Fraumeni syndrome will develop into breast cancer, lung cancer, ovarian cancer, uterine cancer, colon cancer, pancreatic cancer, central nervous system/brain tumor, and kidney cancer."
+    },
+    {
+        "question": "What cancer will Sotos syndrome develop into?",
+        "answer": "Output: Sotos syndrome will develop into Wilms tumor, pheochromocytoma, and hemangioma."
+    },
+    {
+        "question": "What cancer will RAPADILINO syndrome develop into?",
+        "answer": "Output: RAPADILINO syndrome will develop into bone tumor and blood tumor."
+    },
+    {
+        "question": "What cancer will Baller-Gerold syndrome develop into?",
+        "answer": "Output: Baller-Gerold syndrome will develop into lymphoma."
+    },
+    {
+        "question": "What is the relationship between Steatocystoma Multiplex and sebaceous carcinoma?",
+        "answer": "Output: Steatocystoma multiplex is a type of sebaceous carcinoma."
+    },
+    {
+        "question": "What is the relationship between Hereditary Diffuse Gastric Cancer and gastric cancer?",
+        "answer": "Output: Hereditary Diffuse Gastric Cancer is a subtype of gastric cancer."
+    },
+    {
+        "question": "What is the relationship between Ataxia Telangiectasia and ATM?",
+        "answer": "Output: Ataxia Telangiectasia is caused by ATM."
+    },
+    {
+        "question": "What is the relationship between Macrocephaly-Cutis Marmorata syndrome and PIK3CA?",
+        "answer": "Output: Macrocephaly-Cutis Marmorata syndrome is caused by PIK3CA."
+    },
+    {
+        "question": "What is the relationship between Hereditary Desmoid Disease and APC?",
+        "answer": "Output: APC is a cause of Hereditary Desmoid Disease."
+    },
+    {
+        "question": "What is the relationship between Juvenile Polyposis and BMPR1A?",
+        "answer": "Output: BMPR1A is the cause of juvenile polyposis."
+    },
+    {
+        "question": "What is the relationship between Mosaic Variegated Aneuploidy Syndrome and BUB1B?",
+        "answer": "Output: Mosaic Variegated Aneuploidy Syndrome is caused by BUB1B."
+    },
+    {
+        "question": "What is the relationship between Beckwith-Wiedemann syndrome and CDKN1C?",
+        "answer": "Output: Beckwith-Wiedemann syndrome is caused by CDKN1C."
+    },
+    {
+        "question": "What diseases can WAS lead to?",
+        "answer": "Output: WAS can lead to acute myeloid leukemia."
+    },
+    {
+        "question": "What diseases can MTAP gene mutation lead to?",
+        "answer": "Output: MTAP gene mutation can lead to myelodysplastic syndrome."
+    },
+    {
+        "question": "What diseases can be caused by mutations in the AR gene?",
+        "answer": "Output: AR gene mutations can cause XLR syndrome."
+    },
+    {
+        "question": "What diseases can be caused by mutations in the PHB gene?",
+        "answer": "Output: The PHB gene mutations can cause breast cancer and ovarian cancer."
+    },
+    {
+        "question": "What diseases can be caused by mutations in the PALB2?",
+        "answer": "Output: PALB2 mutations can cause PALB2相关性家族性乳腺癌和胰腺癌."
+    },
+    {
+        "question": "What diseases can be caused by mutations in the BLM?",
+        "answer": "Output: The disease caused by mutations in the BLM is Bloom syndrome."
+    },
+    {
+        "question": "What diseases can be caused by mutations in the WT1?",
+        "answer": "Output: WT1 mutations can cause Denys-Drash syndrome, Frasier syndrome, kidney cell carcinoma, and familial adenomatous polyposis."
+    },
+    {
+        "question": "What diseases can be caused by mutations in the CHEK2 gene?",
+        "answer": "Output: CHEK2 gene mutations can cause breast cancer, familial adenomatous polyposis, Li-Fraumeni syndrome, and familial dysplastic neurofibromatosis."
+    },
+    {
+        "question": "What diseases can NF2 gene mutation lead to?",
+        "answer": "Output: NF2 gene mutation can lead to neurofibromatosis type 2."
+    },
+    {
+        "question": "What diseases can DICER1 lead to?",
+        "answer": "Output: DICER1 can lead to lung cancer."
+    },
+    {
+        "question": "What diseases can ELANE gene mutation lead to?",
+        "answer": "Output: ELANE gene mutation can lead to lung cancer."
+    },
+    {
+        "question": "What is the relationship between LIG4 and prostate?",
+        "answer": "Output: LIG4 is a gene that causes prostate cancer."
+    },
+    {
+        "question": "What is the relationship between breast and CDH1?",
+        "answer": "Output: There is no relationship between breast and CDH1."
+    },
+    {
+        "question": "What is the relationship between medulloblastoma and HRAS?",
+        "answer": "Output: Medulloblastoma is activated by HRAS."
+    },
+    {
+        "question": "What is the relationship between CEBPA and RUNX1T1?",
+        "answer": "Output: CEBPA negatively regulates RUNX1T1."
+    },
+    {
+        "question": "What is the relationship between PRDM2 and anal carcinoma?",
+        "answer": "Output: PRDM2 is driving to anal carcinoma."
+    },
+    {
+        "question": "What is the relationship between breast and SMARCA4?",
+        "answer": "Output: SMARCA4 is a gene that is associated with breast cancer."
+    },
+    {
+        "question": "What is the relationship between esophageal carcinoma and RARA?",
+        "answer": "Output: Esophageal carcinoma is positively regulated by RARA."
+    },
+    {
+        "question": "What is the relationship between anal carcinoma and TP53?",
+        "answer": "Output: Anal carcinoma is driving to TP53."
+    },
+    {
+        "question": "What is the relationship between DAXX and TGFBR2?",
+        "answer": "Output: DAXX is activated by TGFBR2."
+    },
+    {
+        "question": "What is the relationship between APC and TCF7L2?",
+        "answer": "Output: APC and TCF7L2 are associated with each other."
+    },
+    {
+        "question": "What is the relationship between NCOR1 and FBXW7?",
+        "answer": "Output: NCOR1 is a synthetic lethal gene for FBXW7."
+    },
+    {
+        "question": "What is the relationship between SMO and SHH?",
+        "answer": "Output: SMO inhibits SHH."
+    },
+    {
+        "question": "What is the relationship between PML and SPI1?",
+        "answer": "Output: PML is associated with SPI1."
+    },
+    {
+        "question": "What is the relationship between MAX and MDM2?",
+        "answer": "Output: MAX is a gene that is associated with MDM2."
+    },
+    {
+        "question": "What is the relationship between MYC and GSK3B?",
+        "answer": "Output: GSK3B is negatively regulated by MYC."
+    },
+    {
+        "question": "What diseases can TBXT lead to?",
+        "answer": "Output: TBXT can lead to tuberculosis."
+    },
+    {
+        "question": "What is the relationship between WHIM syndrome and CXCR4?",
+        "answer": "Output: WHIM syndrome is caused by CXCR4."
+    },
+    {
+        "question": "What is the relationship between kaposis sarcoma and IL6?",
+        "answer": "Output: IL6 is the cause of Kaposis sarcoma."
+    },
+    {
+        "question": "What is the relationship between ovarian carcinoma and WT1?",
+        "answer": "Output: WT1 is a gene that causes ovarian carcinoma."
+    },
+    {
+        "question": "What is the relationship between pheochromocytoma and TMEM127?",
+        "answer": "Output: TMEM127 is the cause of pheochromocytoma."
+    },
+    {
+        "question": "What is the relationship between Cowden syndrome 1 and uterus?",
+        "answer": "Output: Cowden syndrome 1 is associated with uterus."
+    },
+    {
+        "question": "What is the relationship between Inherited Epidermolysis Bullosa and MMP1?",
+        "answer": "Output: MMP1 is a cause of inherited epidermolysis bullosa."
+    },
+    {
+        "question": "Which type of cancer is likely to be driven by ENPEP?",
+        "answer": "Output: ENPEP is likely to drive gastric cancer."
+    },
+    {
+        "question": "Which type of cancer is likely to be driven by PRDM2?",
+        "answer": "Output: PRDM2 is likely to drive breast cancer, kidney papillary cell carcinoma, and liver cancer."
+    },
+    {
+        "question": "Which type of cancer is likely to be driven by GTF2I?",
+        "answer": "Output: GTF2I is likely to drive gastric cancer and pancreatic cancer."
+    },
+    {
+        "question": "How would you describe docetaxel?",
+        "answer": "Output: Docetaxel is a taxane drug that inhibits the formation of microtubules and promotes the stability of microtubules."
+    },
+    {
+        "question": "How would you describe fulvestrant?",
+        "answer": "Output: Fulvestrant is a drug that can compete with estrogen receptors and inhibit the growth of breast cancer cells."
+    },
+    {
+        "question": "How would you describe Bloom syndrome?",
+        "answer": "Output: Bloom syndrome is a rare genetic disorder that increases the risk of developing various types of cancer."
+    },
+    {
+        "question": "How would you describe Frasier syndrome?",
+        "answer": "Output: Frasier syndrome is a genetic disorder that affects the urinary and reproductive systems. It is characterized by a lack of development of the testes and epididymis in males, and by a lack of development of the ovaries and fallopian tubes in females."
+    },
+    {
+        "question": "How would you describe Mulibrey Nanism?",
+        "answer": "Output: Mulibrey nanism is a rare genetic disorder that affects the development of the brain, eyes, and skin."
+    },
+    {
+        "question": "How would you describe Weaver syndrome?",
+        "answer": "Output: Weaver syndrome is a rare genetic disorder that causes rapid growth and development, and it is characterized by abnormal bone growth, clubfoot, and facial abnormalities."
+    },
+    {
+        "question": "How to treat giant cell carcinoma of the lung with POLE?",
+        "answer": "Output: POLE in giant cell lung cancer is resistant to clotozantinib."
+    },
+    {
+        "question": "How to treat soft tissue with KIT?",
+        "answer": "Output: KIT in soft tissue can be treated with imatinib."
+    },
+    {
+        "question": "How to treat soft tissue with PDGFRA?",
+        "answer": "Output: PDGFRA in soft tissue can be treated with bevacizumab."
+    },
+    {
+        "question": "How to treat myeloid with KIT?",
+        "answer": "Output: KIT in myeloid can be treated with imatinib."
+    },
+    {
+        "question": "How to treat unclassified renal cell carcinoma with VHL?",
+        "answer": "Output: VHL in unclassified renal cell carcinoma can be treated with bevacizumab."
+    },
+    {
+        "question": "How to treat cholangiocarcinoma with FGFR2?",
+        "answer": "Output: FGFR2 in cholangiocarcinoma can be treated with crizotinib."
+    },
+    {
+        "question": "How to treat ovarian seromucinous carcinoma with PIK3CA?",
+        "answer": "Output: PIK3CA in ovarian seromucinous carcinoma can be treated with crizotinib."
+    },
+    {
+        "question": "How to treat uterine dedifferentiated carcinoma with AKT1?",
+        "answer": "Output: AKT1 in uterine dedifferentiated carcinoma can be treated with imatinib."
+    },
+    {
+        "question": "How to treat colorectal adenocarcinoma with KRAS?",
+        "answer": "Output: KRAS in colorectal adenocarcinoma are resistant to lenvatinib and lenvatinib."
+    },
+    {
+        "question": "What type of cancer can TCF7L2 drive?",
+        "answer": "Output: TCF7L2 can drive colon cancer and endometrial cancer."
+    },
+    {
+        "question": "What type of cancer can SMAD2 drive?",
+        "answer": "Output: SMAD2 can drive breast cancer and colon cancer."
+    },
+    {
+        "question": "What type of cancer can NIN drive?",
+        "answer": "Output: NIN can drive gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer, gastric cancer,"
+    },
+    {
+        "question": "What type of cancer can FBXW7 drive?",
+        "answer": "Output: FBXW7 can drive breast cancer, ovarian cancer, stomach cancer, pancreatic cancer, lung cancer, esophageal cancer, gastric cancer, head and neck cancer, and nasopharyngeal cancer."
+    },
+    {
+        "question": "What type of cancer can ARID1A drive?",
+        "answer": "Output: ARID1A can drive various types of cancer, including pancreatic cancer, gastric cancer, stomach cancer, cervical cancer, uterine cervix cancer, low-grade neuroendocrine tumors, and adenocarcinoma."
+    },
+    {
+        "question": "What type of cancer can POLD1 drive?",
+        "answer": "Output: POLD1 can drive breast cancer."
+    },
+    {
+        "question": "What type of cancer can Androgen Insensitivity Syndrome develop?",
+        "answer": "Output: Androgen Insensitivity Syndrome can develop breast cancer."
+    },
+    {
+        "question": "What type of cancer can WHIM syndrome develop?",
+        "answer": "Output: WHIM syndrome can develop in lung cancer."
+    },
+    {
+        "question": "What type of cancer can Porokeratosis develop?",
+        "answer": "Output: Porokeratosis can develop in lung cancer."
+    },
+    {
+        "question": "What type of cancer can Familial Paragangliomas develop?",
+        "answer": "Output: Familial Paragangliomas can develop in the brain."
+    },
+    {
+        "question": "What type of cancer can Juvenile Polyposis develop?",
+        "answer": "Output: Juvenile Polyposis can develop colon cancer, gastric cancer, and rectal cancer."
+    },
+    {
+        "question": "Is carteolol effective in treating hemangioma?",
+        "answer": "Output: Yes, carteolol is effective in treating hemangioma."
+    },
+    {
+        "question": "Is FCN-159 effective in treating melanoma?",
+        "answer": "Output: Yes, FCN-159 is effective in treating melanoma."
+    }
+]

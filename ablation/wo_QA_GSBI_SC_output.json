@@ -1,0 +1,1622 @@
+[
+    {
+        "question": "Which types of cancer are associated with MET?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What drugs can treat cancers with TERT mutations?",
+        "answer": "TERT stands for Tuberous Sclerosis Complex."
+    },
+    {
+        "question": "What types of cancer can be treated with diethylstilbestrol?",
+        "answer": "Diethylstilbestrol is a synthetic estrogen that was used as a birth control medication in the 1950s and 1960s. It is not approved for use in the treatment of cancer."
+    },
+    {
+        "question": "Which types of cancer can be treated with pomalidomide?",
+        "answer": "Pomalidomide is a drug used to treat certain types of cancer, including:"
+    },
+    {
+        "question": "Which genes can be activated by codeine?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genes can be activated by E7766?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What types of cancer can lonsurf be used to treat?",
+        "answer": "Lonsurf is a drug used to treat various types of cancer, including:"
+    },
+    {
+        "question": "What types of cancer can capecitabine be used to treat?",
+        "answer": "Capecitabine is a chemotherapy drug that is used to treat various types of cancer, including breast cancer, ovarian cancer, and non-small cell lung cancer."
+    },
+    {
+        "question": "What types of cancer can tukysa be used to treat?",
+        "answer": "Tukysa is a drug used to treat certain types of cancer, including:"
+    },
+    {
+        "question": "What types of cancer can irinotecan be used to treat?",
+        "answer": "Irinotecan is a chemotherapy drug that is used to treat various types of cancer, including breast cancer, ovarian cancer, and pancreatic cancer."
+    },
+    {
+        "question": "What are the NMPA-approved drugs for cancers with TNKS mutations?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the NMPA-approved drugs for cancers with DDR2 mutations?",
+        "answer": "Answer:"
+    },
+    {
+        "question": "What are the NMPA-approved drugs for cancers with MGMT mutations?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the NMPA-approved drugs for cancers with HDAC4 mutations?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What FDA-approved drugs are available to treat cancers with BCL2L1 mutations?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What FDA-approved drugs are available to treat cancers with GPNMB mutations?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What FDA-approved drugs are available to treat cancers with CD3E mutations?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What genetic mutations are present in astrocytoma?",
+        "answer": "The snvfull in astrocytoma are the genetic mutations that are present in the tumor cells."
+    },
+    {
+        "question": "What genetic mutations are present in endocervical adenocarcinoma?",
+        "answer": "The snvfull in endocervical adenocarcinoma are the genetic mutations that are found in the endocervical adenocarcinoma."
+    },
+    {
+        "question": "What genetic mutations are present in adenoid cystic carcinoma?",
+        "answer": "The snvfull in adenoid cystic carcinoma are the genetic mutations that are found in the adenoid cystic carcinoma."
+    },
+    {
+        "question": "What type of cancer can be driven by PTEN-p.R173C?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of cancer can BRAF-p.T599K drive?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of cancer can VHL-p.T133N drive?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of cancer can be driven by ROS1-p.L2026M?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of cancer can be driven by EZH2-p.A682G?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What FDA-approved drugs are available to treat cancers with GSK3B mutations?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What genetic mutations are present in nipple neoplasms?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What types of cancer can meccnu be used to treat?",
+        "answer": "Meccnu is a cancer treatment that can be used to treat various types of cancer, including breast cancer, lung cancer, colon cancer, and prostate cancer."
+    },
+    {
+        "question": "What cancers are associated with the ZNFN1A3?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which cancers are related to the PB1?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the alternative gene name for PPNAD1?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the alternative gene name for HXB?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which cancers are related to the VRNF?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which cancers are related to CNC?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which drugs are FLT3 in myeloid resistant to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which drugs are EGFR in pleomorphic carcinoma of the lung resistant to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which drugs are colon adenocarcinoma with NTRK1 resistant to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which drugs are KIT in soft tissue resistant to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What drugs can treat cancers with ABL1 mutations?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What genetic mutations need to be tested for erlotinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How to treat gastric cancer with ERBB2?",
+        "answer": "ERBB2 is a gene that is associated with gastric cancer. It is a tumor suppressor gene that is responsible for regulating cell growth and division."
+    },
+    {
+        "question": "What are the drug treatment options for fallopian tube carcinoma?",
+        "answer": "The drug treatment options for fallopian tube carcinoma include chemotherapy, radiation therapy, and surgery."
+    },
+    {
+        "question": "Which gene mutations may be resistant to sorafenib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How to treat bone with NTRK1?",
+        "answer": "NTRK1 is a gene that encodes a receptor tyrosine kinase that plays a critical role in the development and homeostasis of bone. NTRK1 is also a potential therapeutic target for the treatment of various bone-related diseases, including osteosarcoma, osteogenesis imperfecta, and osteoporosis."
+    },
+    {
+        "question": "Which genetic mutations need to be detected by FIIN-1?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the drug treatment options for bladder urothelial carcinoma?",
+        "answer": "The drug treatment options for bladder urothelial carcinoma include:"
+    },
+    {
+        "question": "Which genetic mutations are possibly related to sensitivity to afatinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations need to be detected for MK-2206?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the genetic mutations in pancreas?",
+        "answer": "The snvfull in pancreas are the single nucleotide variants (SNVs) that are located in the pancreas."
+    },
+    {
+        "question": "What drugs can treat cancers with MTOR mutations?",
+        "answer": "MTOR is a protein that is involved in cell growth and division. It is also known as the mechano-sensitive kinase. MTOR is activated by growth factors, such as insulin, growth hormone, and insulin-like growth factor-1 (IGF-1)."
+    },
+    {
+        "question": "What are the genetic mutations in esophageal carcinoma?",
+        "answer": "The snvfull in esophageal carcinoma are the single nucleotide variants (SNVs) that are present in the esophageal carcinoma."
+    },
+    {
+        "question": "What types of cancer can sotorasib treat?",
+        "answer": "Sotorasib is a drug that is used to treat cancer. It is used to treat a type of cancer called gastrointestinal stromal tumor (GIST). GIST is a type of cancer that starts in the cells that line the digestive tract. It can also spread to other parts of the body. Sotorasib is used to treat GIST that has spread to other parts of the body."
+    },
+    {
+        "question": "What types of cancer can aldesleukin treat?",
+        "answer": "Aldesleukin is a monoclonal antibody that targets the CD19 protein on the surface of B cells. It is used to treat B-cell malignancies, including chronic lymphocytic leukemia (CLL) and diffuse large B-cell lymphoma (DLBCL)."
+    },
+    {
+        "question": "What types of cancer can be treated with abarelix?",
+        "answer": "Abarelix is a drug used to treat certain types of cancer, including:"
+    },
+    {
+        "question": "What types of cancer can be treated with bexarotene?",
+        "answer": "Bexarotene is a topical medication that is used to treat certain types of skin cancer. It is applied to the affected area and is usually used in combination with other treatments."
+    },
+    {
+        "question": "What types of cancer can be treated with bortezomib?",
+        "answer": "Bortezomib is used to treat multiple myeloma, a type of cancer that affects the bone marrow and blood. It is also used to treat some types of leukemia, such as chronic lymphocytic leukemia (CLL) and small lymphocytic lymphoma (SLL)."
+    },
+    {
+        "question": "Which drugs are ALK in giant cell carcinoma of the lung resistant to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What drugs can treat cancers with ALK mutations?",
+        "answer": "ALK is a gene that is associated with breast cancer. There are several drugs that can be used to treat breast cancer that target the ALK gene. These drugs include:"
+    },
+    {
+        "question": "What are the genetic mutations in liver?",
+        "answer": "The snvfull in liver are single nucleotide variants (SNVs) that are located in the coding regions of the liver genes."
+    },
+    {
+        "question": "Which genetic mutations need to be detected for thyroid?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the genetic mutations in cervix?",
+        "answer": "The snvfull in cervix are the single nucleotide variants (SNVs) that are present in the cervix."
+    },
+    {
+        "question": "What disease does a mutation in the MYH8 gene cause?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What disease does a PDGFRA gene mutation cause?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What disease does a mutation in the CYLD gene cause?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What diseases are caused by cancers with AIRE mutations?",
+        "answer": "AIRE is a virus that can cause diseases such as pneumonia, bronchitis, and other respiratory infections."
+    },
+    {
+        "question": "What disease does a mutation in the XIAP gene cause?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What disease does a PALB2 gene mutation cause?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the fusion genes in skin?",
+        "answer": "Fusion in skin refers to the process of combining two or more skin cells to form a new cell. This process is essential for skin regeneration and repair."
+    },
+    {
+        "question": "What are the fusion in pelvic tumor?",
+        "answer": "Fusion is a term used to describe the process of two or more tumors merging together. In the case of pelvic tumors, the fusion of tumors can be seen in the pelvic cavity."
+    },
+    {
+        "question": "What are the fusion genes in lymphoepithelioma-like carcinoma of the lung?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the fusion genes in pancreatic neuroendocrine tumor?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the fusion genes in melanoma?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the fusion genes in inflammatory myofibroblastic tumor?",
+        "answer": "Fusion in inflammatory myofibroblastic tumor refers to the fusion of different cell types in the tumor, including myofibroblasts, inflammatory cells, and epithelial cells."
+    },
+    {
+        "question": "What are the fusion genes in soft tissue?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of cancer can be induced by Trismus-Pseudocamptodactyly Syndrome with Cardiac Myxoma and Freckling?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which drugs are KRAS in colon cancer sensitive to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What genetic mutations need to be tested before lung?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the gender of the clinical trial recruiting prostate patients?",
+        "answer": "The gender of the clinical trial recruiting prostate patients is male."
+    },
+    {
+        "question": "Which drugs are ALK in basaloid large cell carcinoma of the lung sensitivity to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Are there any suitable and currently recruiting clinical trials for patients with esophageal adenocarcinoma in China?",
+        "answer": "'''"
+    },
+    {
+        "question": "What drugs are available for cancers with ERBB2 mutations?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Are there suitable and currently recruiting clinical trials for non-small cell lung cancer patients?",
+        "answer": "Yes, there are suitable and currently recruiting clinical trials for non-small cell lung cancer patients."
+    },
+    {
+        "question": "Are there suitable and currently recruiting clinical trials for liver patients?",
+        "answer": "Yes, there are suitable and currently recruiting clinical trials for liver patients."
+    },
+    {
+        "question": "Are there suitable and currently recruiting clinical trials for lung patients in China?",
+        "answer": "Yes, there are suitable and currently recruiting clinical trials for lung patients in China."
+    },
+    {
+        "question": "What are the genetic mutations in ovarian carcinoma?",
+        "answer": "The snvfull in ovarian carcinoma are the single nucleotide variants (SNVs) that are associated with the development of ovarian carcinoma."
+    },
+    {
+        "question": "What are the genetic mutations in kidney?",
+        "answer": "The snvfull in kidney are the single nucleotide variants (SNVs) that are located in the kidney."
+    },
+    {
+        "question": "What are the mutations in endometrial carcinoma?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the genetic mutations in small cell lung cancer?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the genetic mutations in liver?",
+        "answer": "The snvfull in liver are single nucleotide variants (SNVs) that are located in the coding regions of the genes."
+    },
+    {
+        "question": "What are the genetic mutations in breast?",
+        "answer": "The snvfull in breast are the single nucleotide variants (SNVs) that are located in the breast tissue."
+    },
+    {
+        "question": "What is the minimum age for recruitment in clinical trials for small bowel cancer patients?",
+        "answer": "'''"
+    },
+    {
+        "question": "What is the minimum age for recruitment of clinical trials for cancer of unknown primary?",
+        "answer": "The minimum age for recruitment of clinical trials for cancer of unknown primary is 18 years old."
+    },
+    {
+        "question": "What is the minimum age for recruitment of patients with ependymoma in clinical trials?",
+        "answer": "'''"
+    },
+    {
+        "question": "What is the maximum age for recruitment of clinical trials for patients with meningioma?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the drug treatment options for esophageal squamous cell carcinoma?",
+        "answer": "The drug treatment options for esophageal squamous cell carcinoma include surgery, chemotherapy, radiation therapy, and targeted therapy."
+    },
+    {
+        "question": "Which genetic mutations are possibly related to sensitivity to debio 1347?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the maximum age for recruitment of oral carcinoma patients in clinical trials?",
+        "answer": "'''"
+    },
+    {
+        "question": "What is the gender of the clinical trial recruiting patients with renal medullary carcinoma?",
+        "answer": "The gender of the clinical trial recruiting patients with renal medullary carcinoma is female."
+    },
+    {
+        "question": "What is the gender of the clinical trial recruiting patients with lung adenosquamous carcinoma?",
+        "answer": "The gender of the clinical trial recruiting patients with lung adenosquamous carcinoma is female."
+    },
+    {
+        "question": "What is the gender of the clinical trial participants recruited for pancreas?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the gender of the clinical trial recruiting patients with penis?",
+        "answer": "Answer: The gender of the clinical trial recruiting patients with penis is male."
+    },
+    {
+        "question": "What is the gender of the clinical trial recruiting peritoneum patients?",
+        "answer": "The gender of the clinical trial recruiting peritoneum patients is female."
+    },
+    {
+        "question": "What FDA-approved drugs target cancers with ERBB2 mutations?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What FDA-approved drugs target cancers with PSMC5 mutations?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the NMPA-approved drugs for cancers with AR mutation?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the targeted drugs for cancers with PIK3CA mutation?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the targeted drugs for cancers with TP53 mutation?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the NMPA-approved drugs for cancers with IDH1 mutation?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What NMPA-approved drugs are available for cancers with EGFR mutations?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What genetic diseases can cancers with PALB2 mutations cause?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What genetic diseases can be caused by cancers with AR mutations?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of genetic disease can be caused by cancers with PPM1D mutation?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What genetic diseases may be caused by cancers with SLC37A4?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What genetic diseases can be caused by cancers with PKD1 mutations?",
+        "answer": "PKD1 mutations can cause a variety of genetic diseases, including:"
+    },
+    {
+        "question": "Is there a strong association between BRCA1 gene mutation and ovarian carcinoma?",
+        "answer": "Yes, there is a strong association between BRCA1 gene mutation and ovarian carcinoma."
+    },
+    {
+        "question": "What is the relationship between Galactosemia and liver?",
+        "answer": "Galactosemia is a rare genetic disorder that affects the body's ability to break down the sugar called galactose. The liver is the organ responsible for breaking down and processing nutrients from food. Galactosemia is caused by a deficiency of the enzyme galactose-1-phosphate uridyltransferase, which is produced in the liver."
+    },
+    {
+        "question": "What type of cancer can be driven by MET-p.D1230N?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What types of cancer can BRAF-p.D594N potentially cause?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What types of cancer can PDGFRA-p.N659K potentially lead to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of cancer can be driven by EGFR-p.V834L?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which types of cancer can BRAF-p.G606E induce?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of cancer can KIT-p.D816V drive?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "With which forms of cancer is MAP2K1-p.C121S associated?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of clinical trial is NCT03280160?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the clinical trial NCT04549064 about?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the clinical trial NCT01921751 about?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the clinical trial NCT00514969 about?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of clinical trial is NCT04015622?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What diseases can a mutation in the DHH gene cause?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What diseases are associated with the cancers with ERCC2 gene mutations?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which drugs are ERBB2-p.D769Y resistance to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which drugs are EGFR-p.G719A mutation sensitive to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which drug does cancers with ALK-p.I1171T show resistance to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which drugs are cancers with NTRK3-p.G623R resistant to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which drugs does cancers with BRAF-p.G466V show resistance to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which cancers are associated with cancers with FLT3 mutations?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which types of cancer are related to cancers with EGFR mutations?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What types of cancer can be treated with avelumab?",
+        "answer": "Avelumab is used to treat certain types of cancer, including:"
+    },
+    {
+        "question": "What types of cancer can be treated with proleukin?",
+        "answer": "Proleukin can treat leukemia."
+    },
+    {
+        "question": "What are the fusion genes in alveolar rhabdomyosarcoma?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between FGFR3 and the ponatinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What types of cancer can ponatinib be used to treat?",
+        "answer": "Ponatinib is a drug that is used to treat cancer. It is used to treat cancer that is caused by a mutation in the PIK3CA gene. This mutation is found in many different types of cancer, including breast cancer, ovarian cancer, and pancreatic cancer."
+    },
+    {
+        "question": "What are the drug treatment options for bladder urothelial carcinoma?",
+        "answer": "The drug treatment options for bladder urothelial carcinoma include:"
+    },
+    {
+        "question": "What are the drug treatment options for non-squamous non-small cell lung cancer?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the drug treatment options for thyroid?",
+        "answer": "There are several drug treatment options for thyroid. The most common ones are:"
+    },
+    {
+        "question": "What is the relationship between NRAS and the RO5126766?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between ALK and the crizotinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the fusion genes in t-lymphoblastic leukemia/lymphoma?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between RET and the selpercatinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations are possibly related to sensitivity to alectinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the drug treatment options for ovarian carcinoma?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations are possibly related to sensitivity to sorafenib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What types of cancer can be treated with everolimus?",
+        "answer": "Everolimus is a drug that is used to treat certain types of cancer, including:"
+    },
+    {
+        "question": "What is the relationship between ERBB2 and the A166?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations are possibly related to sensitivity to pazopanib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between PDGFRA and the dasatinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How does EGFR gene mutation affect the efficacy of gefitinib?",
+        "answer": "The EGFR gene mutation affects the efficacy of gefitinib."
+    },
+    {
+        "question": "What types of cancer can lorlatinib be used to treat?",
+        "answer": "Lorlatinib is a drug used to treat cancer. It is used to treat the following types of cancer:"
+    },
+    {
+        "question": "What is the relationship between MET and the cabozantinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What types of cancer can be treated with bevacizumab?",
+        "answer": "Bevacizumab is used to treat several types of cancer, including:"
+    },
+    {
+        "question": "How to treat cervix with PIK3CA activating mutation?",
+        "answer": "PIK3CA is a gene that encodes a protein called phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha. It is a key regulator of phosphatidylinositol 3-kinase (PI3K) signaling pathway, which plays a critical role in cell survival, proliferation, and migration. PIK3CA mutations are associated with various human cancers, including breast, ovarian, and pancreatic cancer."
+    },
+    {
+        "question": "What genetic mutations need to be tested for gefitinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations need to be tested for brigatinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations are possibly related to sensitivity to dacomitinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What types of cancer can be treated by dtie?",
+        "answer": "DTIE is a type of cancer treatment that uses a type of radiation called external beam radiation therapy. DTIE is used to treat certain types of cancer, including:"
+    },
+    {
+        "question": "What types of cancer can be treated with act-d?",
+        "answer": "Act-d is a drug that is used to treat certain types of cancer. It is used to treat cancers that are caused by mutations in the DNA of cancer cells. It is used to treat cancers that are located in the bone marrow, lungs, and other parts of the body. It is used to treat cancers that are called acute myeloid leukemia (AML) and acute lymphoblastic leukemia (ALL)."
+    },
+    {
+        "question": "What types of cancer can carmustine (product) treat?",
+        "answer": "Carmustine is a chemotherapy drug that is used to treat various types of cancer, including:"
+    },
+    {
+        "question": "Which types of cancer can be treated with bleomicin?",
+        "answer": "Bleomicin is a type of antibiotic that is used to treat bacterial infections. It is not used to treat cancer."
+    },
+    {
+        "question": "Which types of cancer can be driven by cancers with E3B1 mutations?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which cancers are related to the ABLBP4?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the genetic mutations in lung adenocarcinoma?",
+        "answer": "The snvfull in lung adenocarcinoma are the single nucleotide variants that are present in the lung adenocarcinoma."
+    },
+    {
+        "question": "Which drugs are related to the efficacy of BRAF?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the drug treatment options for renal cell carcinoma?",
+        "answer": "The drug treatment options for renal cell carcinoma include:"
+    },
+    {
+        "question": "What are the drug treatment options for lymphoid?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between KRAS and the RG6330?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations are potentially associated with sensitivity to osimertinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the drug treatment options for gastric cancer?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between BRAF gene mutation and the therapeutic effect of PLX8394?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations may be related to the potential sensitivity of U3-1402?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between BRCA2 gene mutation and the efficacy of talazoparib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How does EGFR affect the efficacy of panitumumab?",
+        "answer": "EGFR is a protein that is overexpressed in many types of cancer, including pancreatic cancer. Panitumumab is a monoclonal antibody that targets EGFR and is used to treat pancreatic cancer."
+    },
+    {
+        "question": "What is the relationship between ERBB2 and the efficacy of trastuzumab?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between MET and the efficacy of crizotinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between ERBB2 and the dacomitinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "With which cancers is the prognosis related to FGFR4?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How does EGFR gene mutation affect the efficacy of osimertinib?",
+        "answer": "Osimertinib is a drug used to treat chronic myeloid leukemia (CML). EGFR gene mutation is a common genetic alteration in CML. The efficacy of osimertinib is affected by the presence of EGFR gene mutation."
+    },
+    {
+        "question": "What types of cancer can be treated with pembrolizumab?",
+        "answer": "Pembrolizumab is approved for the treatment of several types of cancer, including melanoma, non-small cell lung cancer (NSCLC), and head and neck cancer."
+    },
+    {
+        "question": "What is the relationship between FGFR1 and the nintedanib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between BRAF gene mutation and the efficacy of osimertinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between ERBB2 and the sapitinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How does FLT3 affect the effectiveness of lestaurtinib?",
+        "answer": "Lestaurtinib is a drug used to treat non-small cell lung cancer (NSCLC). It is a type of immunotherapy. FLT3 is a gene that is involved in the development of cancer."
+    },
+    {
+        "question": "What is the relationship between MET gene mutation and the efficacy of merestinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations may be related to the potential resistance of palbociclib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What types of cancer is tamoxifen related to?",
+        "answer": "Tamoxifen is related to breast cancer."
+    },
+    {
+        "question": "Which genetic mutations are related to sensitivity to vemurafenib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations need to be tested for sunitinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations may be related to the potential resistance of crizotinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations need to be tested for dasatinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations need to be tested for osimertinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What types of cancer are the abiraterone related to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What targeted drugs can be used for kidney with VHL gene mutation?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How does ALK affect the efficacy of lorlatinib?",
+        "answer": "Lorlatinib is a potent and selective inhibitor of the enzyme tyrosine kinase Bcr-Abl, which is overexpressed in chronic myeloid leukemia (CML)."
+    },
+    {
+        "question": "Which genetic mutations are associated with liver?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between BRAF gene mutation and colon cancer?",
+        "answer": "BRAF gene mutation is a common genetic alteration in colon cancer."
+    },
+    {
+        "question": "Is there a correlation between PTEN and Wilson disease?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between Familial Cerebral Cavernous Angioma and hemangioma?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between NSD1 and Weaver syndrome?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What types of cancer are associated with the FGFR2-p.E566G mutation?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of cancer can be driven by PIK3CA-p.H1047R?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What types of cancer are associated with ERBB2-act?",
+        "answer": "ERBB2-act is associated with several types of cancer, including breast cancer, ovarian cancer, and pancreatic cancer."
+    },
+    {
+        "question": "What class of drug does AT9283 belong to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of drug does AZD3463 belong to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What class of drug does altretamine belong to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What category of drug does abiraterone belong to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What types of cancer are associated with EGFR?",
+        "answer": "EGFR is associated with several types of cancer, including:"
+    },
+    {
+        "question": "What types of cancer is arsenic trioxide used to treat?",
+        "answer": "Arsenic trioxide is used to treat a type of cancer called acute promyelocytic leukemia (APL)."
+    },
+    {
+        "question": "What types of cancer is alitretinoin used to treat?",
+        "answer": "Alitretinoin is used to treat certain types of skin cancer, including basal cell carcinoma and squamous cell carcinoma."
+    },
+    {
+        "question": "What targeted drugs can be used for CLIP1 mutation in clear cell carcinoma of the lung?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What types of cancer can aclarubicin treat?",
+        "answer": "Aclarubicin is a chemotherapy drug that is used to treat various types of cancer, including breast cancer, ovarian cancer, and lung cancer."
+    },
+    {
+        "question": "What types of cancer can be treated with bendamustine?",
+        "answer": "Bendamustine is a chemotherapy drug that is used to treat certain types of cancer, including:"
+    },
+    {
+        "question": "What types of cancer is altretamine suitable for treating?",
+        "answer": "Altretamine is suitable for treating the following types of cancer:"
+    },
+    {
+        "question": "What types of cancer can amg-510(racemate) treat?",
+        "answer": "Amg-510(racemate) is a drug used to treat cancer. It is a type of chemotherapy drug. It is used to treat various types of cancer, including breast cancer, ovarian cancer, and lung cancer."
+    },
+    {
+        "question": "Which types of cancer are related to the JUB gene?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How to treat cholangiocarcinoma carrying FGFR2?",
+        "answer": "'''"
+    },
+    {
+        "question": "How to treat uterus carrying NTRK1 fusion gene mutation?",
+        "answer": "'''"
+    },
+    {
+        "question": "What is the relationship between EGFR and ramucirumab?",
+        "answer": "EGFR is a protein that is overexpressed in some types of cancer, and ramucirumab is a drug that targets that protein."
+    },
+    {
+        "question": "In which types of cancer is the SND1-BRAF found?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "In which types of cancer does the KMT2A-MLLT1 occur?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations need to be tested for ceritinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations are possibly related to sensitivity to dovitinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How does a RET gene mutation affect the efficacy of selpercatinib?",
+        "answer": "Selpercatinib is a drug that is used to treat a rare genetic disorder called X-linked severe combined immunodeficiency (X-SCID). It is a type of immunosuppressant that works by blocking the activity of a protein called retinoic acid receptor alpha (RARA)."
+    },
+    {
+        "question": "What genetic mutations need to be detected for zanidatamab?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What types of cancer can be treated with carboplatin?",
+        "answer": "Carboplatin is a chemotherapy drug that is used to treat several types of cancer, including breast cancer, lung cancer, and ovarian cancer."
+    },
+    {
+        "question": "Which genetic mutations are related to sensitivity to talazoparib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the drug treatment options for peritoneal mesothelioma?",
+        "answer": "The drug treatment options for peritoneal mesothelioma are:"
+    },
+    {
+        "question": "How does FGFR1 affect the efficacy of ponatinib?",
+        "answer": "FGFR1 is a gene that encodes a protein that plays a key role in the development and progression of various types of cancer, including non-small cell lung cancer (NSCLC). Ponatinib is a drug that targets the FGFR1 receptor and is used to treat NSCLC."
+    },
+    {
+        "question": "Which genetic mutations are related to potential resistance to trametinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations are related to sensitivity to everolimus?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How does EWSR1 affect the efficacy of seclidemstat?",
+        "answer": "EWSR1 is a gene that encodes a protein called EWSR1. EWSR1 is a member of the EWS (EWS-like) family of proteins. EWSR1 is a negative regulator of the Wnt/β-catenin signaling pathway."
+    },
+    {
+        "question": "How does ERBB2 affect the efficacy of treatment with pembrolizumab?",
+        "answer": "Pembrolizumab is a PD-1 inhibitor that is used to treat melanoma."
+    },
+    {
+        "question": "What drugs can treat cancers with FGFR3 mutations?",
+        "answer": "FGFR3 is a gene that encodes a protein called fibroblast growth factor receptor 3. It is a receptor that is found on the surface of cells in the body. It is involved in the regulation of cell growth and division."
+    },
+    {
+        "question": "How does EGFR gene mutation affect the efficacy of amivantamab-vmjw?",
+        "answer": "Amivantamab-vmjw is a monoclonal antibody that targets the epidermal growth factor receptor (EGFR) and is used to treat various types of cancer, including non-small cell lung cancer (NSCLC). EGFR mutations are a common feature of NSCLC, and they can lead to the development of resistance to EGFR-targeted therapies."
+    },
+    {
+        "question": "How to treat skin with NRAS?",
+        "answer": "The NRAS gene is a tumor suppressor gene that is mutated in approximately 10% of all melanomas."
+    },
+    {
+        "question": "How does RET gene mutation affect the efficacy of vandetanib?",
+        "answer": "Vandetanib is a drug that is used to treat cancer. It is a type of drug called a tyrosine kinase inhibitor. It works by blocking the action of a protein called BRAF. BRAF is a protein that is found in many types of cancer."
+    },
+    {
+        "question": "Which genetic mutations need to be tested for afatinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations may be related to sensitivity to vemurafenib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between BRAF and panitumumab?",
+        "answer": "BRAF is a gene that encodes a protein called B-Raf. Panitumumab is a drug that targets the B-Raf protein."
+    },
+    {
+        "question": "What is the relationship between BRCA1 gene mutation and olaparib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between the ALK and the crizotinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between HRAS and the efficacy of selumetinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How to treat non-small cell lung cancer with EGFR mutation?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How to treat colon adenocarcinoma with POMK?",
+        "answer": "POMK is a gene that is involved in the regulation of cell proliferation and apoptosis."
+    },
+    {
+        "question": "How to treat small cell carcinoma of the ovary carrying EML4?",
+        "answer": "EML4 is a gene that is associated with the development of small cell carcinoma of the ovary. The EML4 gene is located on chromosome 11. The EML4 gene is a tumor suppressor gene that is involved in the regulation of cell growth and division. The EML4 gene is also associated with the development of other types of cancer, such as breast cancer and lung cancer."
+    },
+    {
+        "question": "What types of cancer can be treated with atezolizumab?",
+        "answer": "Atezolizumab is an anti-PD-1 therapy that is approved for the treatment of several types of cancer, including:"
+    },
+    {
+        "question": "Which genetic mutations need to be tested for sorafenib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How does the BRCA2 affect the efficacy of talazoparib?",
+        "answer": "BRCA2 is a tumor suppressor gene that is mutated in approximately 10% of breast and ovarian cancers. Talazoparib is a PARP inhibitor that is used to treat BRCA2-mutated breast and ovarian cancers."
+    },
+    {
+        "question": "What is the relationship between EGFR and anlotinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations need to be tested for selumetinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What genetic mutations need to be detected for dovitinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which genetic mutations are related to possible resistance to dabrafenib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How to treat pleura with NTRK1?",
+        "answer": "NTRK1 is a gene that encodes a receptor tyrosine kinase. It is a member of the NKTR family of receptor tyrosine kinases. NTRK1 is primarily expressed in the lungs, where it plays a role in the development and maintenance of the lung tissue."
+    },
+    {
+        "question": "How to treat non-small cell lung cancer with EGFR?",
+        "answer": "EGFR is a protein that is found in the cells of the body. It is a part of the immune system. It is a protein that is found in the cells of the body. It is a part of the immune system."
+    },
+    {
+        "question": "How does the ROS1 affect the efficacy of crizotinib?",
+        "answer": "Crizotinib is a drug that is used to treat cancer. It is a type of drug called a tyrosine kinase inhibitor. It works by blocking the action of a protein called a tyrosine kinase. This protein is involved in the growth and spread of cancer cells."
+    },
+    {
+        "question": "How to treat lung adenosquamous carcinoma carrying ALK?",
+        "answer": "'''"
+    },
+    {
+        "question": "What is the relationship between EGFR and the icotinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between BRAF and the efficacy of vemurafenib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How to treat biliary tract with RET mutation?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How to treat uterus carrying PIK3CA?",
+        "answer": "The uterus is a part of the female reproductive system. It is responsible for supporting the growth of the fetus during pregnancy. PIK3CA is a gene that is associated with breast cancer."
+    },
+    {
+        "question": "How does FGFR1 affect the efficacy of pazopanib?",
+        "answer": "Pazopanib is a drug used to treat breast cancer. FGFR1 is a gene that regulates cell growth and division."
+    },
+    {
+        "question": "How does EGFR affect the efficacy of gefitinib?",
+        "answer": "EGFR is a gene that encodes a protein called epidermal growth factor receptor. Gefitinib is a drug that inhibits the activity of EGFR. Gefitinib is used to treat various types of cancer, including non-small cell lung cancer (NSCLC) and gastrointestinal stromal tumors (GISTs)."
+    },
+    {
+        "question": "What is the relationship between BRAF and sorafenib?",
+        "answer": "BRAF is a gene that encodes a protein called B-Raf, which is involved in the MAPK signaling pathway. Sorafenib is a drug that inhibits the MAPK pathway. Therefore, sorafenib is a BRAF inhibitor."
+    },
+    {
+        "question": "How does a mutation in the BRCA1 gene affect the efficacy of talazoparib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How to treat pancreatic adenocarcinoma with KRAS?",
+        "answer": "KRAS is a gene that encodes a protein called KRAS. It is a tumor suppressor gene that plays a crucial role in regulating cell growth and division. Pancreatic adenocarcinoma is a type of cancer that develops in the pancreas."
+    },
+    {
+        "question": "How does KIT affect the effectiveness of imatinib?",
+        "answer": "Imatinib is a tyrosine kinase inhibitor that is used to treat chronic myeloid leukemia (CML). KIT is a gene that is amplified in CML and is involved in the development of resistance to imatinib."
+    },
+    {
+        "question": "How to treat non-small cell lung cancer with ERBB2 mutation?",
+        "answer": "ERBB2 mutation is a common genetic alteration in non-small cell lung cancer (NSCLC). The mutation is found in approximately 10% of NSCLC cases. The mutation is associated with a poor prognosis and a high risk of recurrence."
+    },
+    {
+        "question": "What is the relationship between KIT and the effectiveness of imatinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How does the ALK affect the efficacy of lorlatinib?",
+        "answer": "Lorlatinib is a potent and selective inhibitor of the enzyme tyrosine kinase Bcr-Abl, which is overexpressed in chronic myeloid leukemia (CML). Lorlatinib is used to treat CML in patients who have a V617F mutation in the Bcr-Abl gene."
+    },
+    {
+        "question": "How to treat uterine undifferentiated carcinoma with PTEN?",
+        "answer": "PTEN is a tumor suppressor gene that is frequently mutated in uterine undifferentiated carcinoma. PTEN is a tumor suppressor gene that is frequently mutated in uterine undifferentiated carcinoma."
+    },
+    {
+        "question": "How does BRAF affect the effectiveness of dabrafenib?",
+        "answer": "BRAF is a gene that encodes a protein called B-Raf. BRAF is a key regulator of the MAPK signaling pathway, which is involved in many cellular processes, including cell growth, differentiation, and survival."
+    },
+    {
+        "question": "How to treat uterine mucinous carcinoma carrying AKT1?",
+        "answer": "AKT1 is a gene that encodes a protein called AKT1. AKT1 is a serine/threonine kinase that plays a key role in cell signaling pathways. AKT1 is also known as protein kinase B (PKB)."
+    },
+    {
+        "question": "How to treat endometrioid carcinoma with PIK3CA?",
+        "answer": "PIK3CA is a gene that encodes a protein called phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha. It is a tumor suppressor gene that plays a critical role in regulating cell growth and differentiation."
+    },
+    {
+        "question": "How does MET affect the efficacy of capmatinib?",
+        "answer": "MET is a gene that encodes a protein called methionine synthase. Methionine is an essential amino acid that is involved in the synthesis of many proteins in the body. MET is a key regulator of protein synthesis and is essential for the proper functioning of the cell."
+    },
+    {
+        "question": "How to treat non-small cell lung cancer with BRAF?",
+        "answer": "BRAF is a gene that encodes a protein called B-Raf. BRAF is a key regulator of the MAPK signaling pathway, which is involved in many cellular processes, including cell growth, differentiation, and survival."
+    },
+    {
+        "question": "How does EGFR affect the efficacy of rociletinib?",
+        "answer": "Rociletinib is a drug that is used to treat cancer. EGFR is a protein that is found in cells."
+    },
+    {
+        "question": "How does a PDGFRA affect the efficacy of imatinib?",
+        "answer": "Imatinib is a tyrosine kinase inhibitor that is used to treat chronic myeloid leukemia (CML). PDGFRA is a protein that is involved in the growth and survival of leukemic cells."
+    },
+    {
+        "question": "How to treat melanoma with NRAS?",
+        "answer": "NRAS is a gene that is mutated in 80% of melanoma cases. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is a complex process. The treatment of melanoma with NRAS mutation is"
+    },
+    {
+        "question": "How to treat non-small cell lung cancer with EGFR?",
+        "answer": "EGFR is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body. It is a protein that is found in the cells of the body."
+    },
+    {
+        "question": "How to treat brenner tumor carrying TP53?",
+        "answer": "Brenner tumor is a rare type of tumor that is caused by mutations in the TP53 gene. TP53 is a tumor suppressor gene that is essential for maintaining genomic stability."
+    },
+    {
+        "question": "What types of cancer are associated with sorafenib?",
+        "answer": "Sorafenib is an oral, selective inhibitor of the VEGF receptor, which is overexpressed in various types of cancer, including renal cell carcinoma (RCC), hepatocellular carcinoma (HCC), and colorectal cancer."
+    },
+    {
+        "question": "How does EGFR gene mutation affect the efficacy of osimertinib?",
+        "answer": "Osimertinib is a PI3K inhibitor that is used to treat various types of cancer, including non-small cell lung cancer (NSCLC). The EGFR gene mutation is a common genetic alteration in NSCLC."
+    },
+    {
+        "question": "How does EGFR gene mutation affect the efficacy of afatinib?",
+        "answer": "Afatinib is a tyrosine kinase inhibitor that targets the epidermal growth factor receptor (EGFR) gene mutation. The EGFR gene mutation is a common genetic alteration in non-small cell lung cancer (NSCLC). Afatinib is a potent and selective inhibitor of the EGFR gene mutation, which is a key driver of NSCLC progression. Afatinib is effective in treating EGFR-mutated NSCLC, and it is the first and only FDA-approved drug for this indication."
+    },
+    {
+        "question": "How to treat salivary gland-type tumor of the lung carrying FGFR2?",
+        "answer": "'''"
+    },
+    {
+        "question": "How does BRAF affect the vemurafenib?",
+        "answer": "BRAF is a gene that encodes a protein called B-Raf. BRAF is a key regulator of the MAPK signaling pathway, which is involved in many cellular processes, including cell growth, differentiation, and survival."
+    },
+    {
+        "question": "What are the fusion genes in angiomatoid fibrous histiocytoma?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How does the BRAF gene mutation affect the therapeutic effect of trametinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How does the MET gene mutation affect the efficacy of tepotinib?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How would you describe hepatobiliary tumor?",
+        "answer": "A hepatobiliary tumor is a tumor that develops in the liver or bile ducts."
+    },
+    {
+        "question": "How would you describe SC Phocomelia syndrome?",
+        "answer": "SC Phocomelia syndrome is a rare genetic disorder that affects the development of the limbs. It is characterized by a short stature, a large head, and a short neck."
+    },
+    {
+        "question": "How would you describe Schwannomatosis?",
+        "answer": "Schwannomatosis is a rare benign tumor that arises from the Schwann cells, which are the insulating cells that surround nerve fibers."
+    },
+    {
+        "question": "How would you describe Hereditary Desmoid Disease?",
+        "answer": "Hereditary desmoid disease is a rare genetic disorder that affects the development of the brain and spinal cord. It is caused by mutations in the genes that control the growth and development of the brain and spinal cord."
+    },
+    {
+        "question": "How would you describe Galactosemia?",
+        "answer": "Galactosemia is a rare genetic disorder that affects the body's ability to break down the sugar called galactose."
+    },
+    {
+        "question": "How would you describe ezatiostat?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How would you describe alectinib?",
+        "answer": "Alectinib is a drug that is used to treat cancer. It is a type of drug called an ALK inhibitor. It works by blocking the action of a protein called an ALK protein. This protein is found in cancer cells and helps them grow and spread. By blocking the action of this protein, alectinib slows the growth of cancer cells and may help them die."
+    },
+    {
+        "question": "How would you describe durvalumab?",
+        "answer": "Durvalumab is a monoclonal antibody that targets the PD-1 protein. It is used to treat cancer, including melanoma, lung cancer, and kidney cancer."
+    },
+    {
+        "question": "How would you describe enocitabine?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How would you describe gandotinib?",
+        "answer": "Gandotinib is a drug used to treat cancer."
+    },
+    {
+        "question": "How would you describe fentanyl?",
+        "answer": "Fentanyl is a synthetic opioid that is used to treat severe pain. It is a potent agonist of the mu-opioid receptor and is often used to treat severe pain, such as that caused by cancer, surgery, or injury."
+    },
+    {
+        "question": "How would you describe intestinal ampullary carcinoma?",
+        "answer": "A. A type of cancer that develops in the intestine."
+    },
+    {
+        "question": "How would you describe adrenal gland?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How would you describe bowel?",
+        "answer": "A. A tube that carries food from the mouth to the anus."
+    },
+    {
+        "question": "What are the genetic mutations in PLAG1?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the genetic mutations in ZFHX3?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the genetic mutations in PTPRD?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the genetic mutations in CARD11?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the genetic mutations in NBEA?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What are the genetic mutations in PCDH17?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which type of cancer is likely to be driven by HIP1?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which type of cancer is likely to be driven by ZNRF3?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What kind of cancer can be driven by H3F3A?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What kind of cancer can be driven by PLAG1?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What kind of cancer can be driven by ZNF148?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What kind of cancer can be driven by BCL9?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What kind of cancer can be driven by PCDH17?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What kind of cancer could Bloom syndrome eventually develop to?",
+        "answer": "Answer:"
+    },
+    {
+        "question": "What kind of cancer could Denys-Drash syndrome eventually develop to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What kind of cancer could Tumor predisposition syndrome eventually develop to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What kind of cancer could Schwannomatosis eventually develop to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What kind of cancer could Hereditary Desmoid Disease eventually develop to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What kind of cancer could Alagille Syndrome eventually develop to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What cancer will Li-Fraumeni syndrome develop into?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What cancer will Sotos syndrome develop into?",
+        "answer": "Sotos syndrome is a rare genetic disorder that affects the development of the brain and spinal cord. It is caused by mutations in the Sotos gene. The symptoms of Sotos syndrome include intellectual disability, seizures, and developmental delays. The progression of Sotos syndrome is unpredictable and can vary from person to person. Some people with Sotos syndrome may develop a rare form of cancer called medulloblastoma, which affects the part of the brain that controls movement. However, not all people with Sotos syndrome will develop cancer."
+    },
+    {
+        "question": "What cancer will RAPADILINO syndrome develop into?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What cancer will Baller-Gerold syndrome develop into?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between Steatocystoma Multiplex and sebaceous carcinoma?",
+        "answer": "Steatocystoma multiplex is a rare benign tumor of the sebaceous gland. Sebaceous carcinoma is a rare malignant tumor of the sebaceous gland."
+    },
+    {
+        "question": "What is the relationship between Hereditary Diffuse Gastric Cancer and gastric cancer?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between Ataxia Telangiectasia and ATM?",
+        "answer": "Ataxia Telangiectasia is a rare genetic disorder that causes progressive weakness and ataxia, and is characterized by the presence of telangiectasia, which is a condition characterized by the presence of dilated blood vessels."
+    },
+    {
+        "question": "What is the relationship between Macrocephaly-Cutis Marmorata syndrome and PIK3CA?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between Hereditary Desmoid Disease and APC?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between Juvenile Polyposis and BMPR1A?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between Mosaic Variegated Aneuploidy Syndrome and BUB1B?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between Beckwith-Wiedemann syndrome and CDKN1C?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What diseases can WAS lead to?",
+        "answer": "WAS can lead to a variety of diseases, including:"
+    },
+    {
+        "question": "What diseases can MTAP gene mutation lead to?",
+        "answer": "MTAP gene mutation can lead to a variety of diseases, including:"
+    },
+    {
+        "question": "What diseases can be caused by mutations in the AR gene?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What diseases can be caused by mutations in the PHB gene?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What diseases can be caused by mutations in the PALB2?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What diseases can be caused by mutations in the BLM?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What diseases can be caused by mutations in the WT1?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What diseases can be caused by mutations in the CHEK2 gene?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What diseases can NF2 gene mutation lead to?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What diseases can DICER1 lead to?",
+        "answer": "DICER1 is a gene that has been associated with several diseases, including:"
+    },
+    {
+        "question": "What diseases can ELANE gene mutation lead to?",
+        "answer": "ELANE gene mutation can lead to a variety of diseases, including:"
+    },
+    {
+        "question": "What is the relationship between LIG4 and prostate?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between breast and CDH1?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between medulloblastoma and HRAS?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between CEBPA and RUNX1T1?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between PRDM2 and anal carcinoma?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between breast and SMARCA4?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between esophageal carcinoma and RARA?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between anal carcinoma and TP53?",
+        "answer": "Answer: TP53 is a tumor suppressor gene that is mutated in anal carcinoma."
+    },
+    {
+        "question": "What is the relationship between DAXX and TGFBR2?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between APC and TCF7L2?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between NCOR1 and FBXW7?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between SMO and SHH?",
+        "answer": "SMO and SHH are both used in machine learning, but they are different. SMO is a method for solving the problem of linear regression, while SHH is a method for solving the problem of logistic regression."
+    },
+    {
+        "question": "What is the relationship between PML and SPI1?",
+        "answer": "PML and SPI1 are both proteins that are involved in the regulation of cell growth and division. PML is a tumor suppressor protein that is involved in the regulation of cell cycle progression and apoptosis. SPI1 is a protein that is involved in the regulation of cell growth and division."
+    },
+    {
+        "question": "What is the relationship between MAX and MDM2?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between MYC and GSK3B?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What diseases can TBXT lead to?",
+        "answer": "TBXT can lead to several diseases, including:"
+    },
+    {
+        "question": "What is the relationship between WHIM syndrome and CXCR4?",
+        "answer": "WHIM syndrome is a rare genetic disorder that affects the immune system. CXCR4 is a protein that is involved in the immune system."
+    },
+    {
+        "question": "What is the relationship between kaposis sarcoma and IL6?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between ovarian carcinoma and WT1?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between pheochromocytoma and TMEM127?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between Cowden syndrome 1 and uterus?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What is the relationship between Inherited Epidermolysis Bullosa and MMP1?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which type of cancer is likely to be driven by ENPEP?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which type of cancer is likely to be driven by PRDM2?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Which type of cancer is likely to be driven by GTF2I?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How would you describe docetaxel?",
+        "answer": "Docetaxel is a chemotherapy drug that is used to treat various types of cancer, including breast cancer, ovarian cancer, and lung cancer. It works by interfering with the ability of cancer cells to grow and divide."
+    },
+    {
+        "question": "How would you describe fulvestrant?",
+        "answer": "Fulvestrant is a medication that is used to treat breast cancer. It is a type of drug called a tyrosine kinase inhibitor. It works by blocking the action of a protein called HER2. HER2 is found on the surface of some breast cancers. Fulvestrant is used to treat hormone receptor-positive, HER2-amplified breast cancer. It is also used to treat metastatic breast cancer."
+    },
+    {
+        "question": "How would you describe Bloom syndrome?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "How would you describe Frasier syndrome?",
+        "answer": "Frasier syndrome is a rare genetic disorder that affects the development of the brain. It is characterized by a delay in the development of the frontal lobe, which is responsible for reasoning, decision-making, and language."
+    },
+    {
+        "question": "How would you describe Mulibrey Nanism?",
+        "answer": "Mulibrey Nanism is a type of nanism that is characterized by the presence of a small, usually non-functional, penis."
+    },
+    {
+        "question": "How would you describe Weaver syndrome?",
+        "answer": "Weaver syndrome is a rare genetic disorder that affects the nervous system. It is characterized by a variety of symptoms, including seizures, developmental delays, and intellectual disability."
+    },
+    {
+        "question": "How to treat giant cell carcinoma of the lung with POLE?",
+        "answer": "POLE is a treatment for giant cell carcinoma of the lung."
+    },
+    {
+        "question": "How to treat soft tissue with KIT?",
+        "answer": "KIT is a gene that encodes a protein called vascular endothelial growth factor receptor 2 (VEGFR2). VEGFR2 is a receptor that is found on the surface of endothelial cells, which are cells that line blood vessels."
+    },
+    {
+        "question": "How to treat soft tissue with PDGFRA?",
+        "answer": "PDGFRA is a protein that is involved in the regulation of cell growth and differentiation. It is also involved in the regulation of angiogenesis, which is the formation of new blood vessels."
+    },
+    {
+        "question": "How to treat myeloid with KIT?",
+        "answer": "KIT is a tyrosine kinase receptor that is overexpressed in various myeloid malignancies, including acute myeloid leukemia (AML) and multiple myeloma."
+    },
+    {
+        "question": "How to treat unclassified renal cell carcinoma with VHL?",
+        "answer": "'''"
+    },
+    {
+        "question": "How to treat cholangiocarcinoma with FGFR2?",
+        "answer": "FGFR2 is a gene that encodes a protein called fibroblast growth factor receptor 2. It is a receptor that is found on the surface of many different types of cells, including those in the liver."
+    },
+    {
+        "question": "How to treat ovarian seromucinous carcinoma with PIK3CA?",
+        "answer": "PIK3CA is a gene that encodes a protein called phosphatidylinositol-3-kinase catalytic subunit alpha. It is a tumor suppressor gene that plays a role in regulating cell growth and differentiation."
+    },
+    {
+        "question": "How to treat uterine dedifferentiated carcinoma with AKT1?",
+        "answer": "AKT1 is a key regulator of cell proliferation and survival. Inhibition of AKT1 can induce cell cycle arrest and apoptosis in various types of cancer cells."
+    },
+    {
+        "question": "How to treat colorectal adenocarcinoma with KRAS?",
+        "answer": "KRAS is a gene that is associated with colorectal adenocarcinoma. It is a tumor suppressor gene that is responsible for the regulation of cell growth and division."
+    },
+    {
+        "question": "What type of cancer can TCF7L2 drive?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of cancer can SMAD2 drive?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of cancer can NIN drive?",
+        "answer": "NIN drives cancer of the pancreas."
+    },
+    {
+        "question": "What type of cancer can FBXW7 drive?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of cancer can ARID1A drive?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of cancer can POLD1 drive?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of cancer can Androgen Insensitivity Syndrome develop?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of cancer can WHIM syndrome develop?",
+        "answer": "WHIM syndrome is a rare genetic disorder that affects the development of the brain and spinal cord. It is not a cancer."
+    },
+    {
+        "question": "What type of cancer can Porokeratosis develop?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of cancer can Familial Paragangliomas develop?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "What type of cancer can Juvenile Polyposis develop?",
+        "answer": "Answer: Juvenile Polyposis is a rare genetic disorder that causes the growth of abnormal polyps in the colon. These polyps are usually benign (non-cancerous) and do not cause any symptoms. However, in rare cases, some of these polyps may become cancerous. The most common type of cancer that can develop in people with Juvenile Polyposis is colon cancer."
+    },
+    {
+        "question": "Is carteolol effective in treating hemangioma?",
+        "answer": "\"\"\""
+    },
+    {
+        "question": "Is FCN-159 effective in treating melanoma?",
+        "answer": "Output: Yes, FCN-159 is effective in treating melanoma."
+    }
+]
