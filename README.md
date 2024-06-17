@@ -14,3 +14,5 @@ The outputs of KGT based on different LLMs are stored in the 'Diverse LLM' folde
 ## Data Supporting Ablation Study
 The outputs of the ablation experiments are stored in the 'ablation' folder.
 
+## License
+The data in this repository is licensed under the Creative Commons Public Domain Dedication (CC0 1.0 Universal). See the [LICENSE](LICENSE) file for details.
